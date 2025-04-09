@@ -1,0 +1,8171 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-04-08T19:22:20Z",
+    "timestamp_areas_base": "2025-02-06T02:17:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 21442033,
+      "lat": 21.304547,
+      "lon": -157.855676,
+      "tags": {
+        "alt_name:es": "Honolulú",
+        "capital": "4",
+        "ele": "6",
+        "name": "Honolulu",
+        "name:ar": "هونولولو",
+        "name:az-Arab": "هونولولو",
+        "name:azb": "هونولولو",
+        "name:de": "Honolulu",
+        "name:el": "Χονολουλού",
+        "name:en": "Honolulu",
+        "name:es": "Honolulu",
+        "name:fa": "هونولولو",
+        "name:haw": "Honolulu",
+        "name:id": "Honolulu",
+        "name:ja": "ホノルル",
+        "name:kn": "ಹೊನೊಲುಲು",
+        "name:ks": "ہونولولو",
+        "name:lt": "Honolulu",
+        "name:pl": "Honolulu",
+        "name:pnb": "ہونولولو",
+        "name:ru": "Гонолулу",
+        "name:sr": "Хонолулу",
+        "name:uk": "Гонолулу",
+        "name:ur": "ہونولولو",
+        "name:zh": "檀香山 / 火奴鲁鲁",
+        "name:zh-Hant": "檀香山",
+        "name:zh-Hant-HK": "檀香山",
+        "name:zh-Hant-TW": "檀香山",
+        "place": "city",
+        "population": "350964",
+        "population:date": "2010",
+        "state_capital": "yes",
+        "wikidata": "Q18094",
+        "wikipedia": "en:Honolulu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 21445111,
+      "lat": 19.7073734,
+      "lon": -155.08158,
+      "tags": {
+        "capital": "6",
+        "ele": "59",
+        "name": "Hilo",
+        "name:en": "Hilo",
+        "name:haw": "Hilo",
+        "name:ja": "ヒロ",
+        "name:ru": "Хило",
+        "name:sr": "Хајло",
+        "name:uk": "Хіло",
+        "name:zh": "希洛",
+        "name:zh-Hans": "希洛",
+        "name:zh-Hans-CN": "希洛",
+        "name:zh-Hant": "希洛",
+        "name:zh-Hant-CN": "希洛",
+        "name:zh-Hant-HK": "希洛",
+        "name:zh-Hant-TW": "希洛",
+        "place": "city",
+        "population": "44186",
+        "source": "Location:Landsat photo",
+        "wikidata": "Q216258",
+        "wikipedia": "en:Hilo, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 91334967,
+      "lat": 20.8738769,
+      "lon": -156.677678,
+      "tags": {
+        "name": "Lahaina",
+        "name:en": "Lahaina",
+        "name:haw": "Lāhainā",
+        "name:zh": "拉海纳",
+        "place": "town",
+        "population": "12702",
+        "population:date": "2020",
+        "wikidata": "Q1012971",
+        "wikipedia": "en:Lahaina, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 109024319,
+      "lat": 19.7280124,
+      "lon": -156.035512,
+      "tags": {
+        "name": "Kēahole",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150907212,
+      "lat": 20.7086111,
+      "lon": -156.3583333,
+      "tags": {
+        "ele": "806",
+        "gnis:feature_id": "361113",
+        "name": "Keokea",
+        "place": "hamlet",
+        "wikidata": "Q6393021"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150907215,
+      "lat": 19.5058479,
+      "lon": -154.910614,
+      "tags": {
+        "ele": "128",
+        "gnis:feature_id": "1852581",
+        "name": "Nanawale Estates",
+        "place": "suburb",
+        "wikidata": "Q2627317"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150915878,
+      "lat": 21.2935094,
+      "lon": -157.724306,
+      "tags": {
+        "alt_name": "Kuliouou",
+        "ele": "117",
+        "gnis:feature_id": "361580",
+        "name": "Kuliʻouʻou",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916634,
+      "lat": 19.4163612,
+      "lon": -155.8791448,
+      "tags": {
+        "ele": "282",
+        "gnis:feature_id": "361112",
+        "name": "Kēōkea",
+        "place": "village",
+        "wikidata": "Q6393020"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916642,
+      "lat": 21.9165816,
+      "lon": -159.6184834,
+      "tags": {
+        "ele": "46",
+        "gnis:feature_id": "360693",
+        "name": "Kaumakani",
+        "name:en": "Kaumakani",
+        "name:haw": "Kaumakani",
+        "name:ru": "Каумакани",
+        "place": "hamlet",
+        "wikidata": "Q1947964"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916655,
+      "lat": 21.059766,
+      "lon": -156.8346405,
+      "tags": {
+        "ele": "69",
+        "gnis:feature_id": "364317",
+        "name": "‘Ualapu‘e",
+        "place": "hamlet",
+        "wikidata": "Q24191788"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916658,
+      "lat": 21.555472,
+      "lon": -157.854625,
+      "tags": {
+        "alt_name": "Kaaawa",
+        "ele": "1",
+        "gnis:feature_id": "359551",
+        "name": "Kaʻaʻawa",
+        "place": "village",
+        "wikidata": "Q2024964"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916660,
+      "lat": 21.3897864,
+      "lon": -157.9182522,
+      "tags": {
+        "ele": "145",
+        "gnis:feature_id": "358459",
+        "name": "ʻAiea Heights",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916687,
+      "lat": 21.3547222,
+      "lon": -157.9275,
+      "tags": {
+        "ele": "19",
+        "gnis:feature_id": "358560",
+        "name": "Āliamanu",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916693,
+      "lat": 19.0609037,
+      "lon": -155.586099,
+      "tags": {
+        "alt_name": "Naalehu",
+        "ele": "225",
+        "name": "Nā‘ālehu",
+        "name:ja": "ナアレフ",
+        "place": "village",
+        "population": "811",
+        "wikidata": "Q2426296",
+        "wikipedia": "en:Naalehu, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916701,
+      "lat": 20.9143904,
+      "lon": -156.32296,
+      "tags": {
+        "ele": "143",
+        "name": "Haiku",
+        "place": "village",
+        "wikidata": "Q5639155"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916710,
+      "lat": 20.8355938,
+      "lon": -156.336124,
+      "tags": {
+        "ele": "465",
+        "gnis:feature_id": "363512",
+        "name": "Pukalani",
+        "place": "village",
+        "population": "8299",
+        "wikidata": "Q1962617",
+        "wikipedia": "en:Pukalani, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916716,
+      "lat": 20.6485823,
+      "lon": -156.3981543,
+      "tags": {
+        "ele": "551",
+        "gnis:feature_id": "364346",
+        "name": "Ulupalakua",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916725,
+      "lat": 21.4141667,
+      "lon": -157.7788889,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "361372",
+        "name": "Kokokahi",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916727,
+      "lat": 21.5114699,
+      "lon": -158.0224946,
+      "tags": {
+        "ele": "305",
+        "gnis:feature_id": "364987",
+        "name": "Whitmore Village",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916751,
+      "lat": 19.7169444,
+      "lon": -155.0708333,
+      "tags": {
+        "ele": "4",
+        "gnis:feature_id": "364490",
+        "name": "Waiākea",
+        "name:haw": "Waiākea",
+        "name:ru": "Ваиакеа",
+        "place": "suburb",
+        "wikidata": "Q7959889"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916764,
+      "lat": 19.4213889,
+      "lon": -155.7797222,
+      "tags": {
+        "ele": "1789",
+        "gnis:feature_id": "365115",
+        "name": "Kaunēnē",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916802,
+      "lat": 19.3978846,
+      "lon": -155.880008,
+      "tags": {
+        "ele": "263",
+        "name": "Keālia",
+        "place": "village",
+        "wikidata": "Q110817262"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916810,
+      "lat": 21.3257603,
+      "lon": -157.9791929,
+      "tags": {
+        "ele": "2",
+        "name": "Iroquois Point",
+        "place": "suburb",
+        "wikidata": "Q2621810"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916821,
+      "lat": 20.24,
+      "lon": -155.8205556,
+      "tags": {
+        "ele": "142",
+        "gnis:feature_id": "359346",
+        "name": "Honomakau",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916833,
+      "lat": 20.1056949,
+      "lon": -155.5301308,
+      "tags": {
+        "ele": "229",
+        "gnis:feature_id": "360598",
+        "name": "Kapulena",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916851,
+      "lat": 21.6641667,
+      "lon": -158.0536111,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "1867261",
+        "name": "Pūpūkea",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916860,
+      "lat": 19.6225209,
+      "lon": -155.039043,
+      "tags": {
+        "alt_name": "Keaau",
+        "name": "Keaʻau",
+        "name:ja": "ケアアウ",
+        "place": "village",
+        "wikidata": "Q3316659"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916861,
+      "lat": 20.8539162,
+      "lon": -156.3103925,
+      "tags": {
+        "ele": "481",
+        "gnis:feature_id": "362090",
+        "name": "Makawao",
+        "place": "village",
+        "wikidata": "Q2425873"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916867,
+      "lat": 19.7289634,
+      "lon": -155.981609,
+      "tags": {
+        "ele": "477",
+        "name": "Kalaoa",
+        "name:ja": "カラオア",
+        "place": "suburb",
+        "wikidata": "Q2217460"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916870,
+      "lat": 21.9514069,
+      "lon": -159.3628811,
+      "tags": {
+        "ele": "10",
+        "gnis:feature_id": "362675",
+        "name": "Niumalu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916882,
+      "lat": 19.6291667,
+      "lon": -155.8705556,
+      "tags": {
+        "ele": "1376",
+        "gnis:feature_id": "365077",
+        "name": "Hale Pili",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916885,
+      "lat": 20.6006353,
+      "lon": -156.4196426,
+      "tags": {
+        "ele": "22",
+        "gnis:feature_id": "365126",
+        "name": "Keoneʻōʻio",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916905,
+      "lat": 21.6718715,
+      "lon": -158.04039,
+      "tags": {
+        "alt_name": "Paumalū",
+        "ele": "0",
+        "gnis:feature_id": "364301",
+        "name": "Sunset Beach",
+        "place": "suburb",
+        "wikidata": "Q110844863"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916917,
+      "lat": 20.0913312,
+      "lon": -155.4672067,
+      "tags": {
+        "ele": "91",
+        "gnis:feature_id": "358872",
+        "name": "Haina",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916920,
+      "lat": 21.576998,
+      "lon": -158.1552381,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "362432",
+        "name": "Mokulē‘ia",
+        "place": "town",
+        "wikidata": "Q2726762",
+        "wikipedia": "en:Mokulēia, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916929,
+      "lat": 22.1001518,
+      "lon": -159.3462901,
+      "tags": {
+        "ele": "85",
+        "gnis:feature_id": "360792",
+        "name": "Kawaihau",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916940,
+      "lat": 21.4447222,
+      "lon": -157.8377778,
+      "tags": {
+        "ele": "25",
+        "gnis:feature_id": "358445",
+        "name": "‘Āhuimanu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916972,
+      "lat": 19.4078388,
+      "lon": -154.9236038,
+      "tags": {
+        "ele": "68",
+        "gnis:feature_id": "1905399",
+        "name": "Kalapana Sea View Estates",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916973,
+      "lat": 21.3905145,
+      "lon": -157.7155826,
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "361718",
+        "name": "Lanikai",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916990,
+      "lat": 20.7834937,
+      "lon": -156.0230607,
+      "tags": {
+        "ele": "80",
+        "name": "Kaʻeleku",
+        "name:haw": "Kaʻelekū",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150916992,
+      "lat": 19.8323182,
+      "lon": -155.1046152,
+      "tags": {
+        "ele": "172",
+        "gnis:feature_id": "363247",
+        "name": "Pepeekeo",
+        "place": "village",
+        "wikidata": "Q2356964"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917011,
+      "lat": 19.4967518,
+      "lon": -154.950072,
+      "tags": {
+        "ele": "190",
+        "name": "Pāhoa",
+        "name:ja": "パホア",
+        "place": "village",
+        "wikidata": "Q2529053",
+        "wikipedia": "en:Pahoa, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917019,
+      "lat": 19.4268733,
+      "lon": -154.8817403,
+      "tags": {
+        "ele": "30",
+        "gnis:feature_id": "362879",
+        "name": "Opihikao",
+        "place": "suburb",
+        "wikidata": "Q3354172"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917024,
+      "lat": 19.7823149,
+      "lon": -156.0364037,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "365147",
+        "name": "Mahaiula",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917030,
+      "lat": 19.970122,
+      "lon": -155.839005,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "363460",
+        "name": "Puakō",
+        "name:ja": "プアコ",
+        "place": "village",
+        "wikidata": "Q2439999"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917058,
+      "lat": 19.918226,
+      "lon": -155.3395279,
+      "tags": {
+        "ele": "1593",
+        "gnis:feature_id": "360990",
+        "name": "Keanakolu",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917108,
+      "lat": 21.8995733,
+      "lon": -159.5584249,
+      "tags": {
+        "ele": "76",
+        "gnis:feature_id": "362720",
+        "name": "Numila",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917111,
+      "lat": 20.8245438,
+      "lon": -156.0909414,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "362526",
+        "name": "Nāhiku",
+        "place": "hamlet",
+        "wikidata": "Q6959263"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917143,
+      "lat": 20.902457,
+      "lon": -156.3727211,
+      "tags": {
+        "ele": "70",
+        "name": "Paia",
+        "place": "village",
+        "wikidata": "Q2368752"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917178,
+      "lat": 21.9042279,
+      "lon": -159.465733,
+      "tags": {
+        "ele": "65",
+        "gnis:feature_id": "361395",
+        "name": "Koloa",
+        "name:en": "Koloa",
+        "place": "village",
+        "wikidata": "Q2475404"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917181,
+      "lat": 21.1669781,
+      "lon": -157.0692013,
+      "tags": {
+        "ele": "189",
+        "gnis:feature_id": "359414",
+        "name": "Ho‘olehua",
+        "place": "hamlet",
+        "wikidata": "Q5873810"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917186,
+      "lat": 20.79339,
+      "lon": -156.5108086,
+      "tags": {
+        "ele": "30",
+        "gnis:feature_id": "361945",
+        "name": "Maʻalaea",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917191,
+      "lat": 21.425252,
+      "lon": -157.954087,
+      "tags": {
+        "ele": "143",
+        "gnis:feature_id": "362927",
+        "name": "Pacific Palisades",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917194,
+      "lat": 20.7107484,
+      "lon": -155.9937646,
+      "tags": {
+        "ele": "49",
+        "gnis:feature_id": "359971",
+        "name": "Kakiʻo",
+        "name:en": "Kakiʻo",
+        "name:haw": "Kākiʻo",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917208,
+      "lat": 20.0175,
+      "lon": -155.2872222,
+      "tags": {
+        "ele": "113",
+        "gnis:feature_id": "362843",
+        "name": "‘Ō‘ōkala",
+        "place": "suburb",
+        "wikidata": "Q6175129"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917213,
+      "lat": 20.8267969,
+      "lon": -156.9139972,
+      "tags": {
+        "ele": "540",
+        "gnis:feature_id": "361705",
+        "name": "Lalakoa",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917216,
+      "lat": 21.1090836,
+      "lon": -157.053766,
+      "tags": {
+        "ele": "21",
+        "gnis:feature_id": "365189",
+        "name": "‘Umipa‘a",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917226,
+      "lat": 21.1707173,
+      "lon": -157.2566579,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "365190",
+        "name": "Wahīlauhue",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917236,
+      "lat": 21.5010609,
+      "lon": -158.0211735,
+      "tags": {
+        "ele": "287",
+        "gnis:feature_id": "364420",
+        "name": "Wahiawā",
+        "name:ru": "Вахиава",
+        "place": "town",
+        "wikidata": "Q2016119",
+        "wikipedia": "en:Wahiawa, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917247,
+      "lat": 21.0838889,
+      "lon": -157.0022222,
+      "tags": {
+        "ele": "33",
+        "gnis:feature_id": "360305",
+        "name": "Kamiloloa",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917253,
+      "lat": 21.0172326,
+      "lon": -156.6082865,
+      "tags": {
+        "ele": "112",
+        "gnis:feature_id": "359305",
+        "name": "Honokohau",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917257,
+      "lat": 22.223611,
+      "lon": -159.485278,
+      "tags": {
+        "ele": "59",
+        "gnis:feature_id": "1867259",
+        "name": "Princeville",
+        "place": "village",
+        "wikidata": "Q2151577",
+        "wikipedia": "en:Princeville, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917272,
+      "lat": 21.9011132,
+      "lon": -159.587161,
+      "tags": {
+        "ele": "7",
+        "gnis:feature_id": "363427",
+        "name": "Port Allen",
+        "place": "village",
+        "wikidata": "Q15267542"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917275,
+      "lat": 21.3408353,
+      "lon": -157.95656,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "359167",
+        "name": "Hickam",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917278,
+      "lat": 22.2124928,
+      "lon": -159.5419754,
+      "tags": {
+        "ele": "58",
+        "gnis:feature_id": "365196",
+        "name": "Wainiha",
+        "place": "hamlet",
+        "wikidata": "Q4243039"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917832,
+      "lat": 22.224685,
+      "lon": -159.5579039,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "365072",
+        "name": "Hāʻena",
+        "name:en": "Haena",
+        "name:haw": "Hāʻena",
+        "place": "hamlet",
+        "wikidata": "Q24191782"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917836,
+      "lat": 21.3866667,
+      "lon": -158.009166,
+      "tags": {
+        "ele": "19",
+        "gnis:feature_id": "364878",
+        "name": "Waipahu",
+        "name:en": "Waipahu",
+        "name:sr": "Вајпаху",
+        "place": "city",
+        "population": "71894",
+        "wikidata": "Q637246",
+        "wikipedia": "en:Waipahu, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917839,
+      "lat": 21.9586111,
+      "lon": -159.6708333,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "364794",
+        "name": "Waimea",
+        "name:en": "Waimea",
+        "name:haw": "Waimea",
+        "name:ru": "Ваимеа",
+        "place": "town",
+        "wikidata": "Q2989567",
+        "wikipedia": "en:Waimea, Kauai County, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917865,
+      "lat": 20.1197323,
+      "lon": -155.5717689,
+      "tags": {
+        "ele": "185",
+        "gnis:feature_id": "361536",
+        "name": "Kukuihaele",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917884,
+      "lat": 19.8881153,
+      "lon": -155.9048035,
+      "tags": {
+        "ele": "0",
+        "name": "Keawaiki",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917888,
+      "lat": 20.0261393,
+      "lon": -155.7056746,
+      "tags": {
+        "ele": "707",
+        "gnis:feature_id": "365117",
+        "name": "Kawailiula",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917903,
+      "lat": 19.8140115,
+      "lon": -155.8403257,
+      "tags": {
+        "ele": "657",
+        "name": "Puʻuanahulu",
+        "name:en": "Puuanahulu",
+        "name:haw": "Puʻuanahulu",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917916,
+      "lat": 21.5005556,
+      "lon": -157.855,
+      "tags": {
+        "ele": "22",
+        "gnis:feature_id": "364659",
+        "name": "Waikāne",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917930,
+      "lat": 20.787198,
+      "lon": -156.9895362,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "365010",
+        "name": "Kaumalapau",
+        "place": "hamlet",
+        "wikidata": "Q65122651"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917954,
+      "lat": 21.1663939,
+      "lon": -157.0087357,
+      "tags": {
+        "ele": "417",
+        "gnis:feature_id": "359981",
+        "name": "Kala‘e",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917965,
+      "lat": 21.5817934,
+      "lon": -158.1050145,
+      "tags": {
+        "alt_name": "Haleiwa",
+        "gnis:feature_id": "358941",
+        "name": "Haleʻiwa",
+        "place": "village",
+        "wikidata": "Q942545",
+        "wikipedia": "en:Haleʻiwa, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917986,
+      "lat": 21.4001231,
+      "lon": -157.969428,
+      "tags": {
+        "ele": "27",
+        "gnis:feature_id": "363226",
+        "name": "Pearl City",
+        "name:en": "Pearl City",
+        "name:ja": "パールシティ",
+        "name:sr": "Перл Сити",
+        "place": "city",
+        "population": "47698",
+        "wikidata": "Q572052"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150917994,
+      "lat": 19.4902778,
+      "lon": -155.1027778,
+      "tags": {
+        "ele": "545",
+        "gnis:feature_id": "1852576",
+        "name": "Eden Roc",
+        "place": "village",
+        "wikidata": "Q2514905"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918025,
+      "lat": 20.7016526,
+      "lon": -155.998432,
+      "tags": {
+        "ele": "83",
+        "gnis:feature_id": "364141",
+        "name": "Puʻuiki",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918029,
+      "lat": 21.588489,
+      "lon": -157.892075,
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "1904997",
+        "name": "Punaluʻu",
+        "name:en": "Punaluu",
+        "name:haw": "Punaluʻu",
+        "place": "village",
+        "wikidata": "Q2344651"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918034,
+      "lat": 21.45882,
+      "lon": -158.061676,
+      "tags": {
+        "ele": "269",
+        "name": "Kunia Camp",
+        "place": "village",
+        "wikidata": "Q6444620"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918044,
+      "lat": 20.7991331,
+      "lon": -156.0744944,
+      "tags": {
+        "ele": "209",
+        "gnis:feature_id": "1924908",
+        "name": "Upper Nahiku",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918047,
+      "lat": 21.1911111,
+      "lon": -157.2502778,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "365127",
+        "name": "Kepuhi",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918065,
+      "lat": 20.7201935,
+      "lon": -155.987577,
+      "tags": {
+        "ele": "19",
+        "gnis:feature_id": "365081",
+        "name": "Hāmoa",
+        "name:en": "Hamoa",
+        "name:haw": "Hāmoa",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918079,
+      "lat": 20.9969443,
+      "lon": -156.550918,
+      "tags": {
+        "ele": "61",
+        "name": "Kahakuloa",
+        "name:en": "Kahakuloa",
+        "place": "village",
+        "wikidata": "Q6346777",
+        "wikipedia": "en:Kahakuloa, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918119,
+      "lat": 20.9083333,
+      "lon": -156.2275,
+      "tags": {
+        "ele": "134",
+        "name": "Huelo",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918128,
+      "lat": 21.3994444,
+      "lon": -158.1030556,
+      "tags": {
+        "ele": "534",
+        "gnis:feature_id": "363029",
+        "name": "Pālehua",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918132,
+      "lat": 21.0872222,
+      "lon": -157.0161111,
+      "tags": {
+        "ele": "8",
+        "gnis:feature_id": "365133",
+        "name": "Kōheo",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918140,
+      "lat": 20.9339889,
+      "lon": -156.3169819,
+      "tags": {
+        "ele": "76",
+        "name": "Pauwela",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918196,
+      "lat": 20.9250419,
+      "lon": -156.6899009,
+      "tags": {
+        "ele": "0",
+        "name": "Kāʻanapali",
+        "name:en": "Kaanapali",
+        "name:haw": "Kāʻanapali",
+        "name:zh": "卡纳帕利",
+        "place": "town",
+        "wikidata": "Q2849484"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918205,
+      "lat": 22.1002843,
+      "lon": -159.3063366,
+      "tags": {
+        "ele": "5",
+        "gnis:feature_id": "360952",
+        "name": "Kealia",
+        "place": "hamlet",
+        "wikidata": "Q6382131"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918253,
+      "lat": 19.79,
+      "lon": -155.3347222,
+      "tags": {
+        "ele": "1975",
+        "gnis:feature_id": "363436",
+        "name": "Pua‘ākala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918255,
+      "lat": 21.3941667,
+      "lon": -158.1030556,
+      "tags": {
+        "ele": "738",
+        "gnis:feature_id": "358496",
+        "name": "Akupu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918258,
+      "lat": 19.897825,
+      "lon": -155.126953,
+      "tags": {
+        "ele": "3",
+        "gnis:feature_id": "358879",
+        "name": "Hakalau",
+        "place": "hamlet",
+        "wikidata": "Q5640297",
+        "wikipedia": "en:Hakalau, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918261,
+      "lat": 19.9804289,
+      "lon": -155.3768514,
+      "tags": {
+        "ele": "1033",
+        "gnis:feature_id": "364360",
+        "name": "‘Umikoa",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918271,
+      "lat": 19.4717669,
+      "lon": -155.916853,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "362604",
+        "name": "Nāpō‘opo‘o",
+        "place": "village",
+        "wikidata": "Q2403215",
+        "wikipedia": "en:Honaunau-Napoopoo, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918276,
+      "lat": 19.5773841,
+      "lon": -155.0949864,
+      "tags": {
+        "ele": "359",
+        "gnis:feature_id": "361522",
+        "name": "Kukui",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918296,
+      "lat": 19.6266667,
+      "lon": -155.8630556,
+      "tags": {
+        "ele": "1402",
+        "gnis:feature_id": "365119",
+        "name": "Kealapuali",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918306,
+      "lat": 19.8213889,
+      "lon": -156.001944,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "365138",
+        "name": "Kukio",
+        "name:ja": "クキオ",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918336,
+      "lat": 19.494428,
+      "lon": -155.917282,
+      "tags": {
+        "ele": "381",
+        "name": "Captain Cook",
+        "name:ja": "キャプテン・クック",
+        "place": "village",
+        "wikidata": "Q2448238"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918358,
+      "lat": 21.2705588,
+      "lon": -157.786244,
+      "tags": {
+        "alt_name": "Kahala",
+        "ele": "3",
+        "gnis:feature_id": "359673",
+        "name": "Kāhala",
+        "name:ja": "カハラ",
+        "place": "suburb",
+        "wikidata": "Q6454270"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918408,
+      "lat": 21.27857,
+      "lon": -157.802133,
+      "tags": {
+        "alt_name": "Kaimuki",
+        "ele": "46",
+        "gnis:feature_id": "359911",
+        "name": "Kaimukī",
+        "name:ja": "カイムキ",
+        "place": "suburb",
+        "wikidata": "Q3878263"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918419,
+      "lat": 21.2934829,
+      "lon": -157.845308,
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "362381",
+        "name": "Ala Moana",
+        "name:ja": "アラモアナ",
+        "place": "suburb",
+        "wikidata": "Q4705099",
+        "wikipedia": "en:Ala Moana, Honolulu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918424,
+      "lat": 19.2047654,
+      "lon": -155.867358,
+      "tags": {
+        "ele": "549",
+        "gnis:feature_id": "363092",
+        "name": "Pāpā",
+        "place": "village",
+        "wikidata": "Q110817355"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918445,
+      "lat": 19.937851,
+      "lon": -155.168152,
+      "tags": {
+        "ele": "74",
+        "gnis:feature_id": "362658",
+        "name": "Nīnole",
+        "place": "hamlet",
+        "wikidata": "Q7071597",
+        "wikipedia": "en:Nīnole, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918491,
+      "lat": 19.5625262,
+      "lon": -155.960842,
+      "tags": {
+        "ele": "4",
+        "gnis:feature_id": "361017",
+        "name": "Keauhou",
+        "name:ja": "ケアウホウ",
+        "place": "suburb",
+        "wikidata": "Q6382354"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918495,
+      "lat": 21.994238,
+      "lon": -159.355649,
+      "tags": {
+        "ele": "121",
+        "gnis:feature_id": "359050",
+        "name": "Hanamāʻulu",
+        "name:en": "Hanamaulu",
+        "place": "village",
+        "wikidata": "Q1810768",
+        "wikipedia": "en:Hanamaulu, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918505,
+      "lat": 21.1538889,
+      "lon": -157.1483333,
+      "tags": {
+        "ele": "179",
+        "gnis:feature_id": "365148",
+        "name": "Mahana",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918510,
+      "lat": 20.7476261,
+      "lon": -156.4549898,
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "361181",
+        "name": "Kihei",
+        "name:en": "Kihei",
+        "name:haw": "Kīhei",
+        "name:zh": "基希",
+        "place": "town",
+        "wikidata": "Q1026771"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918536,
+      "lat": 19.2134015,
+      "lon": -155.8781601,
+      "tags": {
+        "ele": "402",
+        "gnis:feature_id": "1905545",
+        "name": "Pāpā Bay Estates",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918544,
+      "lat": 20.8679427,
+      "lon": -156.4551213,
+      "tags": {
+        "ele": "26",
+        "gnis:feature_id": "364176",
+        "name": "Puʻunene",
+        "place": "hamlet",
+        "wikidata": "Q7262744"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918555,
+      "lat": 19.7629602,
+      "lon": -155.0916383,
+      "tags": {
+        "ele": "74",
+        "gnis:feature_id": "363187",
+        "name": "Pauka‘a",
+        "place": "suburb",
+        "wikidata": "Q2215378"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918560,
+      "lat": 22.0615438,
+      "lon": -159.3209644,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "364910",
+        "name": "Waipouli",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918598,
+      "lat": 20.8430428,
+      "lon": -156.648821,
+      "tags": {
+        "ele": "71",
+        "gnis:feature_id": "361745",
+        "name": "Launiupoko",
+        "place": "suburb",
+        "wikidata": "Q5971574"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918607,
+      "lat": 22.2029937,
+      "lon": -159.4956949,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "359039",
+        "name": "Hanalei",
+        "place": "town",
+        "wikidata": "Q2638406"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918622,
+      "lat": 20.040691,
+      "lon": -155.3695828,
+      "tags": {
+        "ele": "217",
+        "gnis:feature_id": "362922",
+        "name": "Pa‘auilo",
+        "place": "village",
+        "wikidata": "Q2014052",
+        "wikipedia": "en:Paauilo, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918629,
+      "lat": 19.6063889,
+      "lon": -155.0752778,
+      "tags": {
+        "ele": "239",
+        "gnis:feature_id": "358800",
+        "name": "Elevenmile Homestead",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918634,
+      "lat": 20.909022,
+      "lon": -156.4904386,
+      "tags": {
+        "ele": "10",
+        "gnis:feature_id": "363190",
+        "name": "Paukukalo",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918639,
+      "lat": 20.2254164,
+      "lon": -155.7521934,
+      "tags": {
+        "ele": "53",
+        "gnis:feature_id": "362078",
+        "name": "Makapala",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918643,
+      "lat": 20.224898,
+      "lon": -155.7661823,
+      "tags": {
+        "ele": "91",
+        "gnis:feature_id": "358907",
+        "name": "Halawa",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918648,
+      "lat": 20.0126777,
+      "lon": -155.2728239,
+      "tags": {
+        "ele": "108",
+        "gnis:feature_id": "362668",
+        "name": "Niu Village",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918661,
+      "lat": 20.6946898,
+      "lon": -156.0030391,
+      "tags": {
+        "ele": "91",
+        "gnis:feature_id": "359084",
+        "name": "Hā‘ō‘ū",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918707,
+      "lat": 19.9069287,
+      "lon": -155.897087,
+      "tags": {
+        "ele": "0",
+        "name": "Kapalaoa",
+        "place": "village",
+        "wikidata": "Q110817246"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918792,
+      "lat": 21.1566805,
+      "lon": -156.7394971,
+      "tags": {
+        "ele": "22",
+        "gnis:feature_id": "358908",
+        "name": "Hālawa",
+        "place": "hamlet",
+        "wikidata": "Q16892049"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918801,
+      "lat": 19.517728,
+      "lon": -155.921402,
+      "tags": {
+        "ele": "435",
+        "gnis:feature_id": "360942",
+        "name": "Kealakekua",
+        "name:ja": "ケアラケクア",
+        "place": "village",
+        "wikidata": "Q1847338"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918821,
+      "lat": 19.535201,
+      "lon": -155.928955,
+      "tags": {
+        "ele": "425",
+        "gnis:feature_id": "359919",
+        "name": "Kainaliu",
+        "place": "village",
+        "wikidata": "Q6348085"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918826,
+      "lat": 21.0675013,
+      "lon": -156.9525933,
+      "tags": {
+        "ele": "27",
+        "gnis:feature_id": "362408",
+        "name": "Kawela",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918839,
+      "lat": 21.9466839,
+      "lon": -159.6557173,
+      "tags": {
+        "ele": "12",
+        "gnis:feature_id": "365110",
+        "name": "Kapalawai",
+        "name:en": "Kapalawai",
+        "name:haw": "Kapalawai",
+        "name:ru": "Капалаваи",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918844,
+      "lat": 19.3811694,
+      "lon": -155.899455,
+      "tags": {
+        "ele": "4",
+        "gnis:feature_id": "359402",
+        "name": "Ho‘okena",
+        "place": "village",
+        "wikidata": "Q104878557",
+        "wikipedia": "en:Hoʻokena beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918849,
+      "lat": 20.9073487,
+      "lon": -156.2850027,
+      "tags": {
+        "ele": "235",
+        "gnis:feature_id": "364344",
+        "name": "Ulumalu",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918853,
+      "lat": 20.7573988,
+      "lon": -155.9879846,
+      "tags": {
+        "ele": "39",
+        "gnis:feature_id": "359013",
+        "name": "Hana",
+        "name:en": "Hana",
+        "name:haw": "Hāna",
+        "name:zh": "哈纳",
+        "place": "town",
+        "wikidata": "Q1652717"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918948,
+      "lat": 20.0825603,
+      "lon": -155.437485,
+      "tags": {
+        "ele": "128",
+        "gnis:feature_id": "362920",
+        "name": "Paauhau",
+        "place": "suburb",
+        "wikidata": "Q6055593"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150918999,
+      "lat": 21.1773815,
+      "lon": -156.9483791,
+      "tags": {
+        "ele": "41",
+        "gnis:feature_id": "360098",
+        "name": "Kalawao",
+        "place": "hamlet",
+        "population": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919030,
+      "lat": 19.732622,
+      "lon": -155.0915188,
+      "tags": {
+        "ele": "28",
+        "gnis:feature_id": "364128",
+        "name": "Pu‘u‘eo",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919055,
+      "lat": 19.52255,
+      "lon": -154.9921326,
+      "tags": {
+        "ele": "215",
+        "gnis:feature_id": "1852575",
+        "name": "Ainaloa",
+        "name:ru": "Аиналоа",
+        "place": "suburb",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "wikidata": "Q2120855",
+        "wikipedia": "en:ʻĀinaloa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919059,
+      "lat": 20.9280214,
+      "lon": -156.3683109,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "361471",
+        "name": "Kuau",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919072,
+      "lat": 21.3369161,
+      "lon": -157.6998691,
+      "tags": {
+        "ele": "5",
+        "gnis:feature_id": "364777",
+        "name": "Waimānalo Beach",
+        "place": "village",
+        "population": "4481",
+        "source:population": "US Census 2010",
+        "wikidata": "Q2450709",
+        "wikipedia": "en:Waimanalo Beach, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919086,
+      "lat": 19.580851,
+      "lon": -155.962481,
+      "tags": {
+        "alt_name": "Kahaluu",
+        "ele": "1",
+        "gnis:feature_id": "359685",
+        "name": "Kahaluʻu",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919096,
+      "lat": 20.870822,
+      "lon": -156.3392476,
+      "tags": {
+        "ele": "305",
+        "gnis:feature_id": "358989",
+        "name": "Haliimaile",
+        "place": "village",
+        "wikidata": "Q2312224"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919146,
+      "lat": 19.6930387,
+      "lon": -155.9789623,
+      "tags": {
+        "ele": "374",
+        "name": "Palani Junction",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919151,
+      "lat": 21.6438449,
+      "lon": -157.924442,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "361691",
+        "name": "Laie",
+        "name:en": "Laie",
+        "name:haw": "Lā‘ie",
+        "place": "suburb",
+        "wikidata": "Q3308783"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919166,
+      "lat": 20.0178334,
+      "lon": -155.6830386,
+      "tags": {
+        "ele": "790",
+        "gnis:feature_id": "363602",
+        "name": "Pu'u Opelu",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919175,
+      "lat": 19.531319,
+      "lon": -155.090561,
+      "tags": {
+        "ele": "467",
+        "gnis:feature_id": "1852577",
+        "name": "Fern Acres",
+        "place": "suburb",
+        "wikidata": "Q2660920"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919184,
+      "lat": 20.0152853,
+      "lon": -155.2776021,
+      "tags": {
+        "ele": "87",
+        "gnis:feature_id": "361532",
+        "name": "Kukui Village",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919193,
+      "lat": 19.6852442,
+      "lon": -155.1397561,
+      "tags": {
+        "ele": "349",
+        "gnis:feature_id": "360701",
+        "name": "Kaumana",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919208,
+      "lat": 21.7033333,
+      "lon": -157.9772222,
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "1904843",
+        "name": "Marconi",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919224,
+      "lat": 20.8617117,
+      "lon": -156.1458083,
+      "tags": {
+        "ele": "0",
+        "name": "Keʻanae",
+        "name:en": "Keanae",
+        "name:haw": "Keʻanae",
+        "place": "hamlet",
+        "wikidata": "Q6382157"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919237,
+      "lat": 20.9302664,
+      "lon": -156.5106828,
+      "tags": {
+        "ele": "45",
+        "gnis:feature_id": "364603",
+        "name": "Waiheʻe",
+        "place": "suburb",
+        "wikidata": "Q7959946"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919242,
+      "lat": 19.3526686,
+      "lon": -154.978396,
+      "tags": {
+        "ele": "4",
+        "gnis:feature_id": "365298",
+        "name": "Kalapana",
+        "name:ja": "カラパナ",
+        "place": "suburb",
+        "wikidata": "Q3192115"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919247,
+      "lat": 19.445,
+      "lon": -155.7977778,
+      "tags": {
+        "ele": "1572",
+        "gnis:feature_id": "365120",
+        "name": "Keanapa‘akai",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919251,
+      "lat": 21.9254748,
+      "lon": -159.5269828,
+      "tags": {
+        "ele": "208",
+        "name": "Kalaheo",
+        "place": "village",
+        "wikidata": "Q2638417"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919268,
+      "lat": 21.0008534,
+      "lon": -156.663155,
+      "tags": {
+        "ele": "63",
+        "gnis:feature_id": "1867255",
+        "name": "Kapalua",
+        "name:zh": "卡帕卢亚",
+        "place": "village",
+        "wikidata": "Q1820420",
+        "wikipedia": "en:Kapalua, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919275,
+      "lat": 21.3361131,
+      "lon": -157.8716339,
+      "tags": {
+        "ele": "16",
+        "gnis:feature_id": "360132",
+        "name": "Kalihi",
+        "place": "suburb",
+        "wikidata": "Q6352609"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919300,
+      "lat": 19.7347074,
+      "lon": -155.0255267,
+      "tags": {
+        "addr:postcode": "96720",
+        "ele": "3",
+        "gnis:feature_id": "361024",
+        "name": "Keaukaha",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919308,
+      "lat": 21.3800494,
+      "lon": -157.7369503,
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "361119",
+        "name": "Enchanted Lake",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919322,
+      "lat": 20.6536951,
+      "lon": -156.0556178,
+      "tags": {
+        "ele": "125",
+        "gnis:feature_id": "361256",
+        "name": "Kīpahulu",
+        "place": "hamlet",
+        "wikidata": "Q6414604"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919346,
+      "lat": 21.9504052,
+      "lon": -159.4211843,
+      "tags": {
+        "ele": "83",
+        "gnis:feature_id": "361272",
+        "name": "Kipu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919369,
+      "lat": 19.585022,
+      "lon": -154.973145,
+      "tags": {
+        "ele": "45",
+        "gnis:feature_id": "1867254",
+        "name": "Hawaiian Paradise Park",
+        "place": "village",
+        "wikidata": "Q1813416"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919373,
+      "lat": 19.644397,
+      "lon": -154.985667,
+      "tags": {
+        "ele": "8",
+        "gnis:feature_id": "358840",
+        "name": "Hā‘ena",
+        "place": "village",
+        "wikidata": "Q24191780"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919392,
+      "lat": 19.8347222,
+      "lon": -155.9891667,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "365116",
+        "name": "Ka‘ūpūlehu",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919404,
+      "lat": 21.048499,
+      "lon": -156.8752814,
+      "tags": {
+        "ele": "14",
+        "gnis:feature_id": "360253",
+        "name": "Kamalō",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919440,
+      "lat": 19.788864,
+      "lon": -155.0931249,
+      "tags": {
+        "ele": "72",
+        "gnis:feature_id": "363121",
+        "name": "Pāpa‘ikou",
+        "place": "village",
+        "wikidata": "Q604153"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919445,
+      "lat": 20.6853759,
+      "lon": -156.0204557,
+      "tags": {
+        "ele": "201",
+        "gnis:feature_id": "361336",
+        "name": "Koali",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919459,
+      "lat": 21.133824,
+      "lon": -157.212296,
+      "tags": {
+        "ele": "271",
+        "gnis:feature_id": "362274",
+        "name": "Maunaloa",
+        "place": "village",
+        "population": "376",
+        "wikidata": "Q2637909"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919519,
+      "lat": 21.3822222,
+      "lon": -157.9336111,
+      "tags": {
+        "ele": "30",
+        "gnis:feature_id": "358456",
+        "name": "Aiea",
+        "name:en": "Aiea",
+        "name:sr": "Ајеа",
+        "place": "city",
+        "population": "23068",
+        "wikidata": "Q423505"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919541,
+      "lat": 19.7431682,
+      "lon": -155.0921001,
+      "tags": {
+        "ele": "78",
+        "gnis:feature_id": "364808",
+        "name": "Wainaku",
+        "place": "village",
+        "wikidata": "Q2433743",
+        "wikipedia": "en:Wainaku, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919546,
+      "lat": 21.9769622,
+      "lon": -159.3687721,
+      "tags": {
+        "capital": "6",
+        "gnis:feature_id": "361867",
+        "name": "Līhuʻe",
+        "name:en": "Lihue",
+        "name:haw": "Līhuʻe",
+        "name:ru": "Лихуэ",
+        "place": "town",
+        "population": "6455",
+        "wikidata": "Q588881",
+        "wikipedia": "en:Lihue, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919551,
+      "lat": 21.3847222,
+      "lon": -157.7541667,
+      "tags": {
+        "ele": "29",
+        "gnis:feature_id": "363364",
+        "name": "Pōhākupu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919555,
+      "lat": 19.4429161,
+      "lon": -154.910547,
+      "tags": {
+        "ele": "163",
+        "gnis:feature_id": "360633",
+        "name": "Kaueleau",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919559,
+      "lat": 20.655027,
+      "lon": -156.4424385,
+      "tags": {
+        "ele": "0",
+        "name": "Makena",
+        "place": "hamlet",
+        "wikidata": "Q4243446"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919563,
+      "lat": 21.9263358,
+      "lon": -159.4852426,
+      "tags": {
+        "ele": "179",
+        "name": "Omao",
+        "place": "village",
+        "wikidata": "Q1894229"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919578,
+      "lat": 21.4858333,
+      "lon": -157.8566667,
+      "tags": {
+        "ele": "22",
+        "gnis:feature_id": "364457",
+        "name": "Waiāhole",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919592,
+      "lat": 21.9262362,
+      "lon": -159.507987,
+      "tags": {
+        "ele": "169",
+        "gnis:feature_id": "361798",
+        "name": "Lawai",
+        "place": "village",
+        "wikidata": "Q2638395"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919646,
+      "lat": 21.6784717,
+      "lon": -158.035268,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "364536",
+        "name": "Waiale‘e",
+        "place": "village",
+        "wikidata": "Q110844931"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919663,
+      "lat": 19.8709075,
+      "lon": -155.113434,
+      "tags": {
+        "alt_name": "Honomu",
+        "ele": "94",
+        "gnis:feature_id": "359354",
+        "name": "Honomū",
+        "place": "village",
+        "wikidata": "Q2660935"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919690,
+      "lat": 19.5094444,
+      "lon": -155.7983333,
+      "tags": {
+        "ele": "1529",
+        "gnis:feature_id": "365171",
+        "name": "Papaloa",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919745,
+      "lat": 20.0397244,
+      "lon": -155.829133,
+      "tags": {
+        "ele": "16",
+        "gnis:feature_id": "360781",
+        "name": "Kawaihae",
+        "name:ja": "カワイハエ",
+        "place": "village",
+        "wikidata": "Q5958712"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919809,
+      "lat": 19.3612818,
+      "lon": -154.9704907,
+      "tags": {
+        "ele": "24",
+        "gnis:feature_id": "365292",
+        "name": "Kaimu",
+        "place": "suburb",
+        "wikidata": "Q3191970"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919819,
+      "lat": 19.538437,
+      "lon": -155.052795,
+      "tags": {
+        "ele": "309",
+        "gnis:feature_id": "1852579",
+        "name": "Hawaiian Acres",
+        "place": "suburb",
+        "wikidata": "Q281497"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919823,
+      "lat": 21.575719,
+      "lon": -158.124847,
+      "tags": {
+        "ele": "4",
+        "gnis:feature_id": "364543",
+        "name": "Waialua",
+        "place": "town",
+        "wikidata": "Q2802599",
+        "wikipedia": "en:Waialua, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919863,
+      "lat": 21.0866667,
+      "lon": -157.0136111,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "1890577",
+        "name": "Kapa‘akea Colony",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919871,
+      "lat": 20.193411,
+      "lon": -155.8993164,
+      "tags": {
+        "ele": "10",
+        "gnis:feature_id": "361987",
+        "name": "Māhukona",
+        "place": "suburb",
+        "wikidata": "Q1573847"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919889,
+      "lat": 20.1111111,
+      "lon": -155.598611,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "364891",
+        "name": "Waipio",
+        "name:ja": "ワイピオ",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919899,
+      "lat": 21.446678,
+      "lon": -158.185272,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "364549",
+        "name": "Waiʻanae",
+        "place": "town",
+        "population": "13177",
+        "wikidata": "Q1413686",
+        "wikipedia": "en:Waianae, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919907,
+      "lat": 21.418555,
+      "lon": -157.804184,
+      "tags": {
+        "ele": "28",
+        "gnis:feature_id": "360391",
+        "name": "Kāneʻohe",
+        "name:en": "Kaneohe",
+        "name:haw": "Kāneʻohe",
+        "place": "city",
+        "population": "34597",
+        "wikidata": "Q1484530",
+        "wikipedia": "en:Kaneohe, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919911,
+      "lat": 21.3821942,
+      "lon": -157.911557,
+      "tags": {
+        "ele": "95",
+        "gnis:feature_id": "358914",
+        "name": "Hālawa Heights",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919916,
+      "lat": 19.7268971,
+      "lon": -155.0651252,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "362389",
+        "name": "Mokaoku",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919930,
+      "lat": 19.9756734,
+      "lon": -155.2190717,
+      "tags": {
+        "ele": "3",
+        "gnis:feature_id": "363109",
+        "name": "Pāpa‘aloa",
+        "place": "suburb",
+        "wikidata": "Q7264866"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919942,
+      "lat": 21.4508308,
+      "lon": -158.0095783,
+      "tags": {
+        "ele": "207",
+        "gnis:feature_id": "362333",
+        "name": "Mililani",
+        "name:en": "Mililani",
+        "place": "city",
+        "population": "48668",
+        "wikidata": "Q2003096"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919966,
+      "lat": 20.0280008,
+      "lon": -155.7004525,
+      "tags": {
+        "ele": "744",
+        "gnis:feature_id": "364469",
+        "name": "Waiaka",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919969,
+      "lat": 20.776659,
+      "lon": -156.328583,
+      "tags": {
+        "ele": "719",
+        "name": "Pulehu",
+        "name:en": "Pulehu",
+        "name:haw": "Pūlehu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150919987,
+      "lat": 21.315603,
+      "lon": -158.008804,
+      "tags": {
+        "gnis:feature_id": "358767",
+        "name": "Ewa Beach",
+        "place": "town",
+        "population": "14955",
+        "wikidata": "Q2138861",
+        "wikipedia": "en:ʻEwa Beach, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920037,
+      "lat": 21.6325,
+      "lon": -158.0741667,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "1904655",
+        "name": "Kapaeloa",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920039,
+      "lat": 21.07348,
+      "lon": -156.795914,
+      "tags": {
+        "ele": "83",
+        "gnis:feature_id": "363523",
+        "name": "Pūko‘o",
+        "place": "village",
+        "wikidata": "Q110845041"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920044,
+      "lat": 19.9598276,
+      "lon": -155.2034519,
+      "tags": {
+        "ele": "114",
+        "gnis:feature_id": "364972",
+        "name": "Welokā",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920073,
+      "lat": 21.389147,
+      "lon": -158.152313,
+      "tags": {
+        "ele": "3",
+        "gnis:feature_id": "362575",
+        "name": "Nānākuli",
+        "place": "town",
+        "population": "12666",
+        "source:population": "US Census 2010",
+        "wikidata": "Q2630701",
+        "wikipedia": "en:Nānākuli, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920085,
+      "lat": 19.8859389,
+      "lon": -155.1232824,
+      "tags": {
+        "ele": "60",
+        "gnis:feature_id": "364723",
+        "name": "Wailea",
+        "place": "hamlet",
+        "population": "5938",
+        "wikidata": "Q4243320",
+        "wikipedia": "en:Wailea, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920103,
+      "lat": 21.6917983,
+      "lon": -158.0132152,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "360856",
+        "name": "Kawela",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920112,
+      "lat": 21.4179002,
+      "lon": -157.7691249,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "360890",
+        "name": "Kea‘alu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920117,
+      "lat": 20.020452,
+      "lon": -155.66391,
+      "tags": {
+        "ele": "813",
+        "gnis:feature_id": "364795",
+        "name": "Waimea",
+        "name:ja": "ワイメア",
+        "place": "village",
+        "wikidata": "Q1318641"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920161,
+      "lat": 19.5024704,
+      "lon": -154.8462186,
+      "tags": {
+        "ele": "46",
+        "gnis:feature_id": "360551",
+        "name": "Kapoho",
+        "place": "suburb",
+        "wikidata": "Q3192857"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920197,
+      "lat": 21.4571293,
+      "lon": -157.8323778,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "359686",
+        "name": "Kahalu‘u",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920210,
+      "lat": 21.2695763,
+      "lon": -157.7066053,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "363428",
+        "name": "Portlock",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920220,
+      "lat": 20.916095,
+      "lon": -156.381177,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "361884",
+        "name": "Lower Paia",
+        "place": "village",
+        "wikidata": "Q110845302"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920254,
+      "lat": 20.826084,
+      "lon": -156.919785,
+      "tags": {
+        "ele": "501",
+        "name": "Lānaʻi City",
+        "name:en": "Lanai City",
+        "name:haw": "Lānaʻi City",
+        "name:ru": "Ланаи-Сити",
+        "place": "town",
+        "population": "3102",
+        "wikidata": "Q3267916",
+        "wikipedia": "en:Lanai City, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920280,
+      "lat": 21.0982739,
+      "lon": -156.7590908,
+      "tags": {
+        "ele": "32",
+        "gnis:feature_id": "364542",
+        "name": "Waialua",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920302,
+      "lat": 21.4069302,
+      "lon": -157.7944319,
+      "tags": {
+        "ele": "23",
+        "gnis:feature_id": "363596",
+        "name": "Pū‘ōhala Village",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920304,
+      "lat": 19.6809213,
+      "lon": -156.0172185,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "359304",
+        "name": "Honokōhau",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920314,
+      "lat": 19.5623681,
+      "lon": -155.939303,
+      "tags": {
+        "ele": "424",
+        "gnis:feature_id": "359266",
+        "name": "Honalo",
+        "name:ja": "ホナロ",
+        "place": "village",
+        "wikidata": "Q956219",
+        "wikipedia": "en:Honalo, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920317,
+      "lat": 21.4144444,
+      "lon": -157.7738889,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "361981",
+        "name": "Mahinui",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920350,
+      "lat": 21.2850199,
+      "lon": -157.7370826,
+      "tags": {
+        "ele": "43",
+        "gnis:feature_id": "362666",
+        "name": "Niu Valley",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920385,
+      "lat": 20.2403717,
+      "lon": -155.860242,
+      "tags": {
+        "ele": "149",
+        "gnis:feature_id": "359176",
+        "name": "Hikapoloa",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920391,
+      "lat": 19.7135553,
+      "lon": -155.1361134,
+      "tags": {
+        "ele": "288",
+        "gnis:feature_id": "363268",
+        "name": "Piʻihonua",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920404,
+      "lat": 21.2917337,
+      "lon": -157.7892934,
+      "tags": {
+        "ele": "162",
+        "gnis:feature_id": "362288",
+        "name": "Maunalani Heights",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920415,
+      "lat": 19.9311111,
+      "lon": -155.3944444,
+      "tags": {
+        "ele": "1713",
+        "gnis:feature_id": "365080",
+        "name": "Halepiula",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920417,
+      "lat": 19.5506304,
+      "lon": -155.1071798,
+      "tags": {
+        "ele": "437",
+        "gnis:feature_id": "362495",
+        "name": "Mountain View",
+        "name:ja": "マウンテンビュー",
+        "place": "village",
+        "wikidata": "Q2333799",
+        "wikipedia": "en:Mountain View, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920424,
+      "lat": 20.8549877,
+      "lon": -156.5035434,
+      "tags": {
+        "ele": "147",
+        "gnis:feature_id": "364664",
+        "name": "Waikapu",
+        "place": "village",
+        "wikidata": "Q2100065"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920432,
+      "lat": 21.8766526,
+      "lon": -159.4539141,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "363379",
+        "name": "Poʻipū",
+        "name:en": "Poipu",
+        "place": "village",
+        "wikidata": "Q599245"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920444,
+      "lat": 22.0517684,
+      "lon": -159.3341313,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "364739",
+        "name": "Wailua",
+        "place": "village",
+        "wikidata": "Q2106997"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920455,
+      "lat": 20.9177804,
+      "lon": -156.3484483,
+      "tags": {
+        "ele": "61",
+        "gnis:feature_id": "359008",
+        "name": "Hamakuapoko",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920458,
+      "lat": 19.6238149,
+      "lon": -155.953637,
+      "tags": {
+        "ele": "378",
+        "gnis:feature_id": "359249",
+        "name": "Hōlualoa",
+        "name:ja": "ホルアロア",
+        "place": "suburb",
+        "wikidata": "Q2101741"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920482,
+      "lat": 21.393623,
+      "lon": -157.743759,
+      "tags": {
+        "ele": "10",
+        "gnis:feature_id": "359894",
+        "name": "Kailua",
+        "name:en": "Kailua",
+        "name:ja": "カイルア",
+        "place": "city",
+        "population": "38635",
+        "safety:mask:covid19": "yes",
+        "wikidata": "Q532459",
+        "wikipedia": "en:Kailua, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920486,
+      "lat": 19.0885049,
+      "lon": -155.7953426,
+      "tags": {
+        "ele": "416",
+        "gnis:feature_id": "1905461",
+        "name": "Kona South Estates",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920495,
+      "lat": 19.5441981,
+      "lon": -154.9056844,
+      "tags": {
+        "ele": "78",
+        "gnis:feature_id": "1867252",
+        "name": "Hawaiian Beaches",
+        "place": "suburb",
+        "wikidata": "Q2575421"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920513,
+      "lat": 21.472879,
+      "lon": -158.210678,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "362017",
+        "name": "Mākaha",
+        "place": "village",
+        "wikidata": "Q2588359"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920516,
+      "lat": 21.609712,
+      "lon": -157.912249,
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "1853110",
+        "name": "Hauʻula",
+        "name:en": "Hauula",
+        "name:haw": "Hauʻula",
+        "place": "village",
+        "wikidata": "Q1849015"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920535,
+      "lat": 21.346304,
+      "lon": -157.7211,
+      "tags": {
+        "ele": "7",
+        "gnis:feature_id": "364775",
+        "name": "Waimanalo",
+        "name:haw": "Waimānalo",
+        "place": "town",
+        "population": "5451",
+        "source:population": "US Census 2010",
+        "wikidata": "Q1855219",
+        "wikipedia": "en:Waimānalo, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920538,
+      "lat": 20.917252,
+      "lon": -156.2845317,
+      "tags": {
+        "ele": "253",
+        "gnis:feature_id": "1852966",
+        "name": "Peahi",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920547,
+      "lat": 20.2185083,
+      "lon": -155.7408553,
+      "tags": {
+        "ele": "16",
+        "gnis:feature_id": "362670",
+        "name": "Niuli‘i",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920550,
+      "lat": 20.7054419,
+      "lon": -156.444168,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "365122",
+        "name": "Keawakapu",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920558,
+      "lat": 21.933492,
+      "lon": -159.647827,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "362986",
+        "name": "Pakala Village",
+        "name:en": "Pakala Village",
+        "name:haw": "Pākalā",
+        "name:ru": "Пакала-Виллидж",
+        "place": "hamlet",
+        "wikidata": "Q979958"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920612,
+      "lat": 21.3277181,
+      "lon": -157.8833068,
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "360136",
+        "name": "Kalihi Kai",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920615,
+      "lat": 21.0871025,
+      "lon": -156.7757848,
+      "tags": {
+        "ele": "32",
+        "gnis:feature_id": "363206",
+        "name": "Pauwalu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920618,
+      "lat": 21.3469444,
+      "lon": -158.0858333,
+      "tags": {
+        "ele": "131",
+        "gnis:feature_id": "362042",
+        "name": "Makakilo City",
+        "place": "suburb",
+        "wikidata": "Q384254"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920624,
+      "lat": 19.8430556,
+      "lon": -155.7211111,
+      "tags": {
+        "ele": "909",
+        "gnis:feature_id": "360970",
+        "name": "Ke‘āmuku",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920632,
+      "lat": 21.3790488,
+      "lon": -157.9234434,
+      "tags": {
+        "ele": "54",
+        "gnis:feature_id": "1867251",
+        "name": "Hālawa",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920645,
+      "lat": 19.4956402,
+      "lon": -155.1615097,
+      "tags": {
+        "ele": "711",
+        "gnis:feature_id": "358827",
+        "name": "Glenwood",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920648,
+      "lat": 20.0755626,
+      "lon": -155.4638819,
+      "tags": {
+        "ele": "303",
+        "gnis:feature_id": "359281",
+        "name": "Honoka'a",
+        "name:en": "Honokaa",
+        "place": "village",
+        "wikidata": "Q2070615"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920651,
+      "lat": 21.1902316,
+      "lon": -156.9827646,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "360096",
+        "name": "Kalaupapa",
+        "place": "village",
+        "population": "122",
+        "wikidata": "Q2544383"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920658,
+      "lat": 19.7555556,
+      "lon": -155.975,
+      "tags": {
+        "ele": "519",
+        "gnis:feature_id": "359450",
+        "name": "Huehue",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920661,
+      "lat": 22.1452778,
+      "lon": -159.3155556,
+      "tags": {
+        "ele": "9",
+        "gnis:feature_id": "358587",
+        "name": "Anahola",
+        "place": "village",
+        "wikidata": "Q2588377",
+        "wikipedia": "en:Anahola, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920669,
+      "lat": 19.8525289,
+      "lon": -155.925669,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "361184",
+        "name": "Kīholo",
+        "place": "village",
+        "wikidata": "Q110817219"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920674,
+      "lat": 20.6361411,
+      "lon": -156.1231374,
+      "tags": {
+        "ele": "128",
+        "gnis:feature_id": "360754",
+        "name": "Kaupō",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920684,
+      "lat": 20.811858,
+      "lon": -156.6221108,
+      "tags": {
+        "ele": "2",
+        "gnis:feature_id": "362800",
+        "name": "Olowalu",
+        "place": "hamlet",
+        "wikidata": "Q4243383"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920696,
+      "lat": 19.2024436,
+      "lon": -155.477346,
+      "tags": {
+        "alt_name": "Pahala",
+        "ele": "305",
+        "gnis:feature_id": "362938",
+        "name": "Pāhala",
+        "name:en": "Pahala",
+        "name:haw": "Pāhala",
+        "name:ja": "パハラ",
+        "place": "village",
+        "wikidata": "Q2594148"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920698,
+      "lat": 19.6987381,
+      "lon": -155.1340229,
+      "tags": {
+        "ele": "276",
+        "gnis:feature_id": "1905287",
+        "name": "Akolea Plantation Estates",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920700,
+      "lat": 19.1170658,
+      "lon": -155.7608669,
+      "tags": {
+        "ele": "882",
+        "gnis:feature_id": "1905339",
+        "name": "Hawaiian Ocean View Estates",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920706,
+      "lat": 20.8915677,
+      "lon": -156.2153029,
+      "tags": {
+        "ele": "197",
+        "name": "Kailua",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920714,
+      "lat": 20.239006,
+      "lon": -155.831451,
+      "tags": {
+        "ele": "159",
+        "gnis:feature_id": "359139",
+        "name": "Hawi",
+        "name:ja": "ハウイ",
+        "place": "village",
+        "wikidata": "Q2221102"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920738,
+      "lat": 19.859656,
+      "lon": -155.6526753,
+      "tags": {
+        "ele": "1407",
+        "gnis:feature_id": "364682",
+        "name": "Waikiʻi",
+        "name:en": "Waikii",
+        "name:haw": "Waikiʻi",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920764,
+      "lat": 19.0755632,
+      "lon": -155.7936622,
+      "tags": {
+        "ele": "413",
+        "gnis:feature_id": "1905308",
+        "name": "Country Garden Estates",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920781,
+      "lat": 19.641941,
+      "lon": -155.996933,
+      "tags": {
+        "ele": "5",
+        "gnis:feature_id": "365355",
+        "name": "Kailua-Kona",
+        "name:en": "Kailua-Kona",
+        "name:es": "Kailua-Kona",
+        "name:fr": "Kailua-Kona",
+        "name:haw": "Kailua-Kona",
+        "name:it": "Kailua-Kona",
+        "name:ja": "カイルア・コナ",
+        "name:la": "Kailua-Kona",
+        "name:pt": "Kailua-Kona",
+        "name:rm": "Kailua-Kona",
+        "name:ro": "Kailua-Kona",
+        "name:ru": "Каилуа-Кона",
+        "place": "town",
+        "wikidata": "Q627970",
+        "wikipedia": "en:Kailua-Kona, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920795,
+      "lat": 21.3930556,
+      "lon": -157.9625,
+      "tags": {
+        "ele": "27",
+        "gnis:feature_id": "364574",
+        "name": "Waiau",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920848,
+      "lat": 21.334354,
+      "lon": -157.846057,
+      "tags": {
+        "ele": "134",
+        "gnis:feature_id": "362926",
+        "name": "Nuʻuanu",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920861,
+      "lat": 19.3977778,
+      "lon": -155.7761111,
+      "tags": {
+        "ele": "1829",
+        "gnis:feature_id": "365136",
+        "name": "Komakawai",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920870,
+      "lat": 21.2819444,
+      "lon": -157.7525,
+      "tags": {
+        "ele": "2",
+        "gnis:feature_id": "358472",
+        "name": "‘Āina Haina",
+        "place": "suburb",
+        "wikidata": "Q4697377"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920879,
+      "lat": 19.4628244,
+      "lon": -155.1326695,
+      "tags": {
+        "ele": "690",
+        "gnis:feature_id": "1852578",
+        "name": "Fern Forest",
+        "place": "village",
+        "wikidata": "Q2660689"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920887,
+      "lat": 19.9839473,
+      "lon": -155.2361468,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "361749",
+        "name": "Laupāhoehoe",
+        "place": "suburb",
+        "wikidata": "Q2630385"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920941,
+      "lat": 19.6005477,
+      "lon": -155.052924,
+      "tags": {
+        "ele": "193",
+        "gnis:feature_id": "361629",
+        "name": "Kurtistown",
+        "name:ja": "カーティスタウン",
+        "place": "village",
+        "wikidata": "Q2064772"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150920953,
+      "lat": 20.953821,
+      "lon": -156.6862836,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "359316",
+        "name": "Honokowai",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921029,
+      "lat": 21.483102,
+      "lon": -158.201065,
+      "tags": {
+        "ele": "87",
+        "gnis:feature_id": "1867257",
+        "name": "Mākaha Valley",
+        "place": "village",
+        "wikidata": "Q2002387"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921064,
+      "lat": 20.2307269,
+      "lon": -155.798784,
+      "tags": {
+        "ele": "124",
+        "gnis:feature_id": "360474",
+        "name": "Kapa'au",
+        "name:ja": "カパアウ",
+        "place": "village",
+        "wikidata": "Q2981812",
+        "wikipedia": "en:Kapaau, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921125,
+      "lat": 19.3935807,
+      "lon": -154.9321568,
+      "tags": {
+        "ele": "44",
+        "gnis:feature_id": "361073",
+        "name": "Kehena",
+        "place": "suburb",
+        "wikidata": "Q3194661"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921157,
+      "lat": 20.849829,
+      "lon": -156.138382,
+      "tags": {
+        "ele": "70",
+        "name": "Wailua",
+        "place": "hamlet",
+        "wikidata": "Q7960074"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921166,
+      "lat": 21.0650714,
+      "lon": -156.8245819,
+      "tags": {
+        "ele": "60",
+        "gnis:feature_id": "360179",
+        "name": "Kalua‘aha",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921171,
+      "lat": 20.73737,
+      "lon": -156.3341609,
+      "tags": {
+        "ele": "882",
+        "name": "Kaonoulu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921197,
+      "lat": 21.4006547,
+      "lon": -157.9474317,
+      "tags": {
+        "ele": "115",
+        "gnis:feature_id": "1867264",
+        "name": "Waimalu",
+        "place": "suburb",
+        "wikidata": "Q2541865"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921216,
+      "lat": 19.0463688,
+      "lon": -155.7805929,
+      "tags": {
+        "ele": "375",
+        "gnis:feature_id": "1905341",
+        "name": "Hawaiian Ranchos",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921253,
+      "lat": 21.942781,
+      "lon": -159.6295309,
+      "tags": {
+        "ele": "72",
+        "gnis:feature_id": "359636",
+        "name": "Kaʻawanui Village",
+        "name:en": "Kaawanui Village",
+        "name:haw": "Kaʻawanui",
+        "name:ru": "Каавануи-Виллидж",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921261,
+      "lat": 21.679124,
+      "lon": -157.94838,
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "359833",
+        "name": "Kahuku",
+        "place": "village",
+        "wikidata": "Q596007"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921268,
+      "lat": 20.8,
+      "lon": -156.3280556,
+      "tags": {
+        "ele": "670",
+        "name": "ʻŌmaʻopio",
+        "name:en": "Omaopio",
+        "name:haw": "ʻŌmaʻopio",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921277,
+      "lat": 20.6866308,
+      "lon": -156.0156859,
+      "tags": {
+        "ele": "181",
+        "gnis:feature_id": "362501",
+        "name": "Mū‘olea",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921304,
+      "lat": 20.0307142,
+      "lon": -155.3485506,
+      "tags": {
+        "ele": "227",
+        "gnis:feature_id": "361505",
+        "name": "Kūka‘iau",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921309,
+      "lat": 19.0709458,
+      "lon": -155.7639131,
+      "tags": {
+        "ele": "480",
+        "gnis:feature_id": "1867253",
+        "name": "Hawaiian Ocean View",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921313,
+      "lat": 20.8905443,
+      "lon": -156.503093,
+      "tags": {
+        "capital": "6",
+        "description": "County seat of Maui County, formerly the main tourist destination of the island but now eclipsed by other resorts.",
+        "ele": "76",
+        "gnis:feature_id": "364757",
+        "name": "Wailuku",
+        "name:haw": "Wailuku",
+        "name:ru": "Ваилуку",
+        "place": "town",
+        "population": "15313",
+        "wikidata": "Q2087831",
+        "wikipedia": "en:Wailuku, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921332,
+      "lat": 19.6339143,
+      "lon": -155.9827915,
+      "tags": {
+        "ele": "63",
+        "gnis:feature_id": "1905345",
+        "name": "Hillcrest",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921335,
+      "lat": 20.01349,
+      "lon": -155.2842743,
+      "tags": {
+        "ele": "91",
+        "gnis:feature_id": "362336",
+        "name": "Milo Village",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921349,
+      "lat": 21.1554979,
+      "lon": -157.038842,
+      "tags": {
+        "alt_name": "Kualapuu",
+        "ele": "257",
+        "gnis:feature_id": "361457",
+        "name": "Kualapu‘u",
+        "place": "village",
+        "population": "2027",
+        "wikidata": "Q2020849",
+        "wikipedia": "en:Kualapuu, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921371,
+      "lat": 21.4308333,
+      "lon": -157.8105556,
+      "tags": {
+        "ele": "4",
+        "gnis:feature_id": "359149",
+        "name": "He‘eia",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921375,
+      "lat": 19.9483333,
+      "lon": -155.4616667,
+      "tags": {
+        "ele": "1519",
+        "name": "Hanaipoe",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921393,
+      "lat": 21.0906247,
+      "lon": -157.0208436,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "360717",
+        "name": "Kaunakakai",
+        "name:zh": "科纳卡凯",
+        "place": "town",
+        "population": "3425",
+        "wikidata": "Q744198"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921411,
+      "lat": 20.8889056,
+      "lon": -156.2960966,
+      "tags": {
+        "ele": "345",
+        "gnis:feature_id": "360748",
+        "name": "Kaupakalua",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921421,
+      "lat": 21.4201928,
+      "lon": -158.1737678,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "361999",
+        "name": "Mā‘ili",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921433,
+      "lat": 22.0747334,
+      "lon": -159.3191601,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "360457",
+        "name": "Kapaʻa",
+        "name:en": "Kapaa",
+        "name:haw": "Kapaʻa",
+        "place": "town",
+        "wikidata": "Q658046"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921492,
+      "lat": 20.9566667,
+      "lon": -156.5377778,
+      "tags": {
+        "ele": "244",
+        "gnis:feature_id": "362153",
+        "name": "Camp Maluhia",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921551,
+      "lat": 21.3652899,
+      "lon": -158.0415056,
+      "tags": {
+        "ele": "33",
+        "gnis:feature_id": "359376",
+        "name": "Ho‘opili",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921561,
+      "lat": 19.5072222,
+      "lon": -155.8263889,
+      "tags": {
+        "ele": "1334",
+        "gnis:feature_id": "365173",
+        "name": "Pauahi",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921570,
+      "lat": 19.4598015,
+      "lon": -154.8444875,
+      "tags": {
+        "ele": "23",
+        "gnis:feature_id": "365177",
+        "name": "Pohoiki",
+        "place": "suburb",
+        "wikidata": "Q3393241"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921578,
+      "lat": 20.2306604,
+      "lon": -155.780227,
+      "tags": {
+        "ele": "79",
+        "gnis:feature_id": "358902",
+        "name": "Halaula",
+        "place": "suburb",
+        "wikidata": "Q2670120"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921582,
+      "lat": 21.3340079,
+      "lon": -158.077849,
+      "tags": {
+        "ele": "19",
+        "name": "Kapolei",
+        "name:en": "Kapolei",
+        "name:ru": "Каполей",
+        "place": "city",
+        "population": "33482",
+        "wikidata": "Q3110254",
+        "wikipedia": "en:Kapolei, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921587,
+      "lat": 20.6186029,
+      "lon": -156.4375541,
+      "tags": {
+        "ele": "7",
+        "gnis:feature_id": "1987868",
+        "name": "Kanahena",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921605,
+      "lat": 21.4283333,
+      "lon": -157.7661111,
+      "tags": {
+        "ele": "2",
+        "gnis:feature_id": "362130",
+        "name": "Māla‘e",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921612,
+      "lat": 20.9208377,
+      "lon": -156.4956999,
+      "tags": {
+        "ele": "52",
+        "gnis:feature_id": "364588",
+        "name": "Waiʻehu",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921629,
+      "lat": 21.4726679,
+      "lon": -157.998437,
+      "tags": {
+        "ele": "224",
+        "gnis:feature_id": "2583426",
+        "import_uuid": "bb7269ee-502a-5391-8056-e3ce0e66489c",
+        "name": "Mililani Mauka",
+        "place": "suburb",
+        "wikidata": "Q4243044",
+        "wikipedia": "en:Mililani Mauka, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921652,
+      "lat": 19.5522222,
+      "lon": -155.8583333,
+      "tags": {
+        "ele": "1183",
+        "gnis:feature_id": "365158",
+        "name": "Monohaa",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921674,
+      "lat": 21.970833,
+      "lon": -159.715,
+      "tags": {
+        "ele": "3",
+        "gnis:feature_id": "361086",
+        "name": "Kekaha",
+        "name:en": "Kekaha",
+        "name:haw": "Kekaha",
+        "name:ru": "Кекаха",
+        "place": "town",
+        "wikidata": "Q1654387"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921687,
+      "lat": 20.6352778,
+      "lon": -156.150277,
+      "tags": {
+        "ele": "154",
+        "gnis:feature_id": "363509",
+        "name": "Pukaʻauhuhu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921700,
+      "lat": 19.0677298,
+      "lon": -155.61217,
+      "tags": {
+        "alt_name": "Waiohinu",
+        "ele": "372",
+        "gnis:feature_id": "364822",
+        "name": "Wai‘ōhinu",
+        "name:ja": "ワイオヒヌ",
+        "place": "village",
+        "wikidata": "Q4243035"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921705,
+      "lat": 21.2781818,
+      "lon": -157.7649776,
+      "tags": {
+        "ele": "20",
+        "gnis:feature_id": "364761",
+        "name": "Wailupe",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921732,
+      "lat": 19.425801,
+      "lon": -155.908356,
+      "tags": {
+        "ele": "16",
+        "gnis:feature_id": "359269",
+        "name": "Hōnaunau",
+        "name:ja": "ホナウナウ",
+        "place": "village",
+        "wikidata": "Q5965231"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921755,
+      "lat": 19.7952778,
+      "lon": -156.0294444,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "365150",
+        "name": "Makalawena",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921829,
+      "lat": 21.2981976,
+      "lon": -157.803742,
+      "tags": {
+        "ele": "227",
+        "gnis:feature_id": "364239",
+        "name": "Saint Louis Heights",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921834,
+      "lat": 20.7596398,
+      "lon": -156.3283762,
+      "tags": {
+        "ele": "811",
+        "name": "Waiakoa",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921855,
+      "lat": 19.6473494,
+      "lon": -156.0102262,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "365142",
+        "name": "Laniākea",
+        "name:en": "Laniakea",
+        "name:haw": "Laniākea",
+        "name:ru": "Ланиакеа",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921869,
+      "lat": 21.3727778,
+      "lon": -157.7705556,
+      "tags": {
+        "ele": "21",
+        "gnis:feature_id": "362301",
+        "name": "Maunawili",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921874,
+      "lat": 20.83752,
+      "lon": -156.9148525,
+      "tags": {
+        "ele": "529",
+        "gnis:feature_id": "361122",
+        "name": "Keomuku",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921942,
+      "lat": 19.1949972,
+      "lon": -155.905215,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "359431",
+        "name": "Hoʻōpūloa",
+        "place": "village",
+        "wikidata": "Q110817373"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150921944,
+      "lat": 19.1864818,
+      "lon": -155.905032,
+      "tags": {
+        "ele": "0",
+        "gnis:feature_id": "362338",
+        "name": "Miloli‘i",
+        "name:ja": "ミロリイ",
+        "place": "village",
+        "wikidata": "Q6016598"
+      }
+    },
+    {
+      "type": "node",
+      "id": 833661552,
+      "lat": 21.3129031,
+      "lon": -157.8628003,
+      "tags": {
+        "name": "Chinatown",
+        "place": "suburb",
+        "wikidata": "Q5100138"
+      }
+    },
+    {
+      "type": "node",
+      "id": 833661554,
+      "lat": 21.3059005,
+      "lon": -157.8582266,
+      "tags": {
+        "historic": "district",
+        "name": "Hawaii Capital Historic District",
+        "place": "suburb",
+        "wikidata": "Q12059678"
+      }
+    },
+    {
+      "type": "node",
+      "id": 833661555,
+      "lat": 21.2926317,
+      "lon": -157.8313434,
+      "tags": {
+        "name": "McCully",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 833661557,
+      "lat": 21.2932315,
+      "lon": -157.798427,
+      "tags": {
+        "alt_name": "Palolo",
+        "name": "Pālolo",
+        "place": "suburb",
+        "wikidata": "Q9054884"
+      }
+    },
+    {
+      "type": "node",
+      "id": 833661558,
+      "lat": 21.2792768,
+      "lon": -157.8128308,
+      "tags": {
+        "name": "Kapahulu",
+        "name:ja": "カパフル",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 833661559,
+      "lat": 21.2986295,
+      "lon": -157.85795,
+      "tags": {
+        "alt_name": "Kakaako",
+        "name": "Kaka‘ako",
+        "place": "suburb",
+        "wikidata": "Q6349111",
+        "wikipedia": "en:Kakaʻako"
+      }
+    },
+    {
+      "type": "node",
+      "id": 833661698,
+      "lat": 21.3093848,
+      "lon": -157.8118169,
+      "tags": {
+        "name": "Mānoa",
+        "name:ja": "マノア",
+        "place": "suburb",
+        "wikidata": "Q3273127"
+      }
+    },
+    {
+      "type": "node",
+      "id": 835052548,
+      "lat": 21.2959645,
+      "lon": -157.8414865,
+      "tags": {
+        "name": "Pawaa",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 835052675,
+      "lat": 21.3061928,
+      "lon": -157.8786679,
+      "tags": {
+        "name": "Sand Island",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1321227087,
+      "lat": 21.3652463,
+      "lon": -158.0827845,
+      "tags": {
+        "name": "Upper Makakilo",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1401730642,
+      "lat": 21.3270802,
+      "lon": -157.8564402,
+      "tags": {
+        "name": "Liliha",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1401730643,
+      "lat": 21.3101652,
+      "lon": -157.8304463,
+      "tags": {
+        "name": "Makiki",
+        "place": "suburb",
+        "wikidata": "Q6739512"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1401730650,
+      "lat": 21.3666835,
+      "lon": -157.8938838,
+      "tags": {
+        "name": "Moanalua Valley",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1401730652,
+      "lat": 21.2837423,
+      "lon": -157.781533,
+      "tags": {
+        "name": "Waialae-Kahala",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1401730653,
+      "lat": 21.3507284,
+      "lon": -157.9110413,
+      "tags": {
+        "name": "Salt Lake",
+        "place": "suburb",
+        "wikidata": "Q7405857"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1401730656,
+      "lat": 21.3410273,
+      "lon": -157.8975616,
+      "tags": {
+        "name": "Mapunapuna",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1401730657,
+      "lat": 21.3660274,
+      "lon": -157.9123461,
+      "tags": {
+        "name": "Red Hill",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402941274,
+      "lat": 21.2793568,
+      "lon": -157.8285713,
+      "tags": {
+        "alt_name": "Waikiki",
+        "name": "Waikīkī",
+        "name:haw": "Waikīkī",
+        "name:ja": "ワイキキ",
+        "place": "suburb",
+        "wikidata": "Q254861",
+        "wikipedia": "en:Waikiki"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1553247573,
+      "lat": 21.3164283,
+      "lon": -158.0695659,
+      "tags": {
+        "name": "Kalaeloa",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1554849266,
+      "lat": 21.3190436,
+      "lon": -157.8702339,
+      "tags": {
+        "name": "Iwilei",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1563214697,
+      "lat": 21.3982428,
+      "lon": -158.0238294,
+      "tags": {
+        "name": "Village Park",
+        "place": "suburb",
+        "wikidata": "Q1866703"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1563214739,
+      "lat": 21.3476644,
+      "lon": -157.8620566,
+      "tags": {
+        "name": "Kalihi Valley",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1563214805,
+      "lat": 21.3934878,
+      "lon": -157.8824639,
+      "tags": {
+        "name": "Halawa Valley",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1563214860,
+      "lat": 21.3348741,
+      "lon": -157.8623999,
+      "tags": {
+        "name": "Kapalama",
+        "place": "suburb",
+        "wikidata": "Q6367414"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1604843545,
+      "lat": 21.2900359,
+      "lon": -157.745433,
+      "tags": {
+        "name": "Hawaiʻiloa Ridge",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1606069697,
+      "lat": 19.53432,
+      "lon": -154.9990231,
+      "tags": {
+        "name": "Aina Pua",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1606069698,
+      "lat": 19.5292728,
+      "lon": -154.994989,
+      "tags": {
+        "name": "Tiki Gardens",
+        "place": "suburb",
+        "wikidata": "Q106900198",
+        "wikipedia": "en:Tiki Gardens, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1622991029,
+      "lat": 19.4669684,
+      "lon": -154.91656,
+      "tags": {
+        "name": "Leilani Estates",
+        "name:ja": "レイラニ・エステート",
+        "place": "suburb",
+        "wikidata": "Q617664"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1635717703,
+      "lat": 19.5585138,
+      "lon": -155.0132798,
+      "tags": {
+        "name": "Orchidlands Estates",
+        "place": "village",
+        "wikidata": "Q2660915",
+        "wikipedia": "en:Orchidlands Estates, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1637209776,
+      "lat": 21.3634893,
+      "lon": -158.0917178,
+      "tags": {
+        "name": "Makakilo Heights",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1637219495,
+      "lat": 21.3486989,
+      "lon": -158.052666,
+      "tags": {
+        "name": "East Kapolei",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1637229570,
+      "lat": 21.3592028,
+      "lon": -158.128978,
+      "tags": {
+        "name": "Kahe",
+        "place": "village",
+        "wikidata": "Q110844793"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1703263319,
+      "lat": 21.3008842,
+      "lon": -157.8480809,
+      "tags": {
+        "name": "Makiki Kai",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1722027162,
+      "lat": 21.5543942,
+      "lon": -157.8734051,
+      "tags": {
+        "ele": "52",
+        "gnis:feature_id": "359693",
+        "image": "http://i.imgur.com/0LTtl.jpg",
+        "name": "Kahana",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1736844107,
+      "lat": 21.4090062,
+      "lon": -157.9933762,
+      "tags": {
+        "name": "Crestview",
+        "place": "suburb",
+        "wikidata": "Q5184633"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1742636846,
+      "lat": 21.3869309,
+      "lon": -157.9475013,
+      "tags": {
+        "name": "Pearlridge",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1823562712,
+      "lat": 21.3235191,
+      "lon": -157.8420585,
+      "tags": {
+        "name": "Pacific Heights",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1886162599,
+      "lat": 21.4654242,
+      "lon": -158.011819,
+      "tags": {
+        "gnis:feature_id": "364894",
+        "name": "Waipiʻo Acres",
+        "place": "suburb",
+        "wikidata": "Q2630395",
+        "wikipedia": "en:Waipiʻo Acres, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2039216241,
+      "lat": 19.5119416,
+      "lon": -155.0992739,
+      "tags": {
+        "ele": "467",
+        "gnis:feature_id": "1852577",
+        "name": "Kopua Farm Lots",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2068661901,
+      "lat": 19.4412701,
+      "lon": -155.1840121,
+      "tags": {
+        "addr:postcode": "96771",
+        "name": "Royal Hawaiian Estates",
+        "place": "suburb",
+        "population": "931",
+        "wikidata": "Q106900157",
+        "wikipedia": "en:Fern-Forest"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2068731481,
+      "lat": 19.4294785,
+      "lon": -155.2184408,
+      "tags": {
+        "addr:postcode": "96770",
+        "name": "Mauna Loa Estates",
+        "place": "suburb",
+        "wikidata": "Q106900113"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2081449273,
+      "lat": 20.1204045,
+      "lon": -155.784962,
+      "tags": {
+        "name": "Kahua Ranch",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2089623711,
+      "lat": 20.090221,
+      "lon": -155.8311604,
+      "tags": {
+        "name": "Kohala Ranch",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2385014287,
+      "lat": 21.40677,
+      "lon": -158.1641818,
+      "tags": {
+        "name": "Sea Country",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2407409949,
+      "lat": 19.7092542,
+      "lon": -155.0490361,
+      "tags": {
+        "FIXME": "Tagging these place=suburb seems like Tagging For The Renderer (an OSM no-no), not technically correct. Enclosing polygons are tagged boundary=aboriginal_lands with identical name tag as this node, shouldn't that suffice? Delete?",
+        "name": "Waiakea Hawaiian Home Land",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3052914621,
+      "lat": 20.0234034,
+      "lon": -155.8102105,
+      "tags": {
+        "ele": "0",
+        "name": "Waikui",
+        "place": "hamlet",
+        "wikidata": "Q109481022"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4424510478,
+      "lat": 21.9015805,
+      "lon": -160.2029991,
+      "tags": {
+        "name": "Puʻuwai",
+        "name:en": "Puuwai",
+        "name:haw": "Puʻuwai",
+        "name:ru": "Пууваи",
+        "place": "village",
+        "wikidata": "Q2271717"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4424516664,
+      "lat": 20.8894101,
+      "lon": -156.4727118,
+      "tags": {
+        "name": "Kahului",
+        "name:zh": "卡胡卢伊",
+        "place": "town",
+        "population": "26337",
+        "wikidata": "Q1012975",
+        "wikipedia": "en:Kahului, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4571423903,
+      "lat": 21.3532556,
+      "lon": -157.8919485,
+      "tags": {
+        "name": "Moanalua Gardens",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4698096584,
+      "lat": 19.0202928,
+      "lon": -155.6632756,
+      "tags": {
+        "name": "Kama'oa Homesteads",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4698096585,
+      "lat": 18.9541757,
+      "lon": -155.706184,
+      "tags": {
+        "name": "Kaʻilikiʻi",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4728700579,
+      "lat": 21.4033108,
+      "lon": -158.029654,
+      "tags": {
+        "name": "Royal Kunia",
+        "place": "suburb",
+        "wikidata": "Q4244057"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5283073586,
+      "lat": 21.2984732,
+      "lon": -157.692445,
+      "tags": {
+        "name": "Mariner's Cove",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5618232949,
+      "lat": 19.4618177,
+      "lon": -154.9671579,
+      "tags": {
+        "name": "Kaohe Homesteads",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5664916891,
+      "lat": 19.5236035,
+      "lon": -154.8433149,
+      "tags": {
+        "alt_name": "Koae",
+        "name": "Koaʻe",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5664916892,
+      "lat": 19.5437848,
+      "lon": -154.8645619,
+      "tags": {
+        "alt_name": "Waa Waa",
+        "name": "Waʻawaʻa",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6160554476,
+      "lat": 21.9068968,
+      "lon": -159.5832396,
+      "tags": {
+        "name": "ʻEleʻele",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6160554477,
+      "lat": 21.9113611,
+      "lon": -159.5869973,
+      "tags": {
+        "name": "Hanapepe",
+        "place": "village",
+        "wikidata": "Q2467470"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6160573518,
+      "lat": 21.9657682,
+      "lon": -159.395704,
+      "tags": {
+        "name": "Puhi",
+        "place": "village",
+        "wikidata": "Q1966339",
+        "wikipedia": "en:Puhi, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6160573519,
+      "lat": 22.2087822,
+      "lon": -159.407764,
+      "tags": {
+        "name": "Kilauea",
+        "place": "village",
+        "wikidata": "Q1900527",
+        "wikipedia": "en:Kīlauea, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6164833543,
+      "lat": 21.9199012,
+      "lon": -159.3861562,
+      "tags": {
+        "name": "Kipu Kai",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6164833544,
+      "lat": 22.0580742,
+      "lon": -159.3691081,
+      "tags": {
+        "name": "Wailua Homesteads",
+        "place": "suburb",
+        "wikidata": "Q2315750"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6812922518,
+      "lat": 21.3995833,
+      "lon": -157.8035512,
+      "tags": {
+        "name": "Keapuka",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6812928719,
+      "lat": 21.4059663,
+      "lon": -157.803637,
+      "tags": {
+        "name": "Kapunahala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6813157247,
+      "lat": 21.4076427,
+      "lon": -157.7958268,
+      "tags": {
+        "name": "Puohala",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6813376730,
+      "lat": 21.4229294,
+      "lon": -157.8093568,
+      "tags": {
+        "name": "Crown Terrace",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984025289,
+      "lat": 20.9859587,
+      "lon": -156.6672,
+      "tags": {
+        "name": "Napili",
+        "place": "village",
+        "wikidata": "Q6964940",
+        "wikipedia": "en:Nāpili"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984025290,
+      "lat": 20.9753751,
+      "lon": -156.6775703,
+      "tags": {
+        "name": "Kahana",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984025291,
+      "lat": 20.6871749,
+      "lon": -156.4390415,
+      "tags": {
+        "name": "Wailea",
+        "place": "town",
+        "wikidata": "Q4243320",
+        "wikipedia": "en:Wailea, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984025292,
+      "lat": 20.792026,
+      "lon": -156.3237119,
+      "tags": {
+        "name": "Kula",
+        "place": "village",
+        "wikidata": "Q4243331",
+        "wikipedia": "en:Kula, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8035006999,
+      "lat": 21.6549054,
+      "lon": -158.0176985,
+      "tags": {
+        "name": "Camp Paumalū",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9372238525,
+      "lat": 21.2891309,
+      "lon": -157.7173915,
+      "tags": {
+        "name": "East Honolulu",
+        "name:zh": "東檀香山",
+        "name:zh-Hans": "东檀香山",
+        "name:zh-Hant": "東檀香山",
+        "place": "city",
+        "population": "50922",
+        "wikidata": "Q4243048",
+        "wikipedia": "en:East Honolulu, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10010269164,
+      "lat": 20.6328691,
+      "lon": -156.1466414,
+      "tags": {
+        "name": "Puka‘au‘huhu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10573509777,
+      "lat": 19.4433451,
+      "lon": -155.884473,
+      "tags": {
+        "alt_name": "Honaunau-Napoopoo",
+        "name": "Hōnaunau-Nāpōʻopoʻo",
+        "place": "village",
+        "wikidata": "Q2403215",
+        "wikipedia": "en:Honaunau-Napoopoo, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10573509778,
+      "lat": 19.0920501,
+      "lon": -155.776691,
+      "tags": {
+        "name": "Hawaiian Ocean View",
+        "name:ja": "オーシャンビュー",
+        "place": "village",
+        "wikidata": "Q2594609",
+        "wikipedia": "en:Hawaiian Ocean View, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10573509779,
+      "lat": 19.5433705,
+      "lon": -154.9057245,
+      "tags": {
+        "name": "Hawaiian Beaches",
+        "place": "village",
+        "wikidata": "Q2575421",
+        "wikipedia": "en:Hawaiian Beaches, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10573509780,
+      "lat": 19.5211532,
+      "lon": -154.9942648,
+      "tags": {
+        "name": "Ainaloa",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10573509781,
+      "lat": 19.4297676,
+      "lon": -155.233984,
+      "tags": {
+        "name": "Volcano",
+        "name:ja": "ボルケーノ",
+        "place": "town",
+        "wikidata": "Q2428769",
+        "wikipedia": "en:Volcano, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10573509784,
+      "lat": 19.5931487,
+      "lon": -155.058074,
+      "tags": {
+        "name": "Kurtistown",
+        "place": "village",
+        "wikidata": "Q2064772",
+        "wikipedia": "en:Kurtistown, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10573509786,
+      "lat": 19.7621196,
+      "lon": -155.0910115,
+      "tags": {
+        "name": "Paukaa",
+        "place": "village",
+        "wikidata": "Q2215378",
+        "wikipedia": "en:Paukaa, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10573509788,
+      "lat": 20.1165904,
+      "lon": -155.5762339,
+      "tags": {
+        "boundary": "census",
+        "name": "Kukuihaele",
+        "place": "village",
+        "wikidata": "Q971531",
+        "wikipedia": "en:Kukuihaele, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10573509789,
+      "lat": 20.2276505,
+      "lon": -155.782184,
+      "tags": {
+        "name": "Halaula",
+        "name:ja": "ハラウラ",
+        "place": "village",
+        "wikidata": "Q2670120",
+        "wikipedia": "en:Halaula, Hawaii"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10573509790,
+      "lat": 19.9469278,
+      "lon": -155.787398,
+      "tags": {
+        "ele": "249",
+        "gnis:feature_id": "1905603",
+        "name": "Waikoloa",
+        "name:ja": "ワイコロア",
+        "place": "village",
+        "wikidata": "Q2502583"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11957210653,
+      "lat": 20.8010645,
+      "lon": -156.810841,
+      "tags": {
+        "name": "Lōpā",
+        "place": "hamlet",
+        "population": "0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11957210654,
+      "lat": 20.8289828,
+      "lon": -156.8113063,
+      "tags": {
+        "name": "Halepalaoa Landing",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33616149,
+      "center": {
+        "lat": 19.5249393,
+        "lon": -154.9936428
+      },
+      "nodes": [
+        1635647124, 1634878659, 384260602, 1634878657, 1634878655, 1634878648,
+        1634878615, 384260475, 384260476, 384260386, 1635647117, 6284649609,
+        1635647118, 1634878504, 1635718482, 1635647124
+      ],
+      "tags": {
+        "area": "no",
+        "boundary": "census",
+        "name": "Ainaloa CDP",
+        "place": "village"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33616582,
+      "center": {
+        "lat": 20.1194105,
+        "lon": -155.5671411
+      },
+      "nodes": [
+        384314641, 384314642, 384314644, 384314645, 384314647, 384314651,
+        384314654, 384314656, 384314657, 384314661, 384314663, 384314666,
+        384314671, 384314674, 384314678, 384314679, 384314681, 384314689,
+        384314691, 384314692, 384314693, 384314695, 384314696, 384314698,
+        384314699, 384314703, 384314705, 384314707, 582196510, 384314718,
+        384314719, 384314722, 384314724, 384314725, 384314727, 384314728,
+        384314730, 384314731, 384314737, 384314740, 384314742, 384314746,
+        384314752, 384314754, 384314755, 384314758, 384314759, 384314760,
+        384314761, 384314762, 384314767, 384314771, 384314773, 384314775,
+        384314778, 384314779, 384314783, 384314784, 384314785, 384314786,
+        384314790, 384314791, 384314794, 384314796, 384314798, 384314799,
+        384314800, 384314804, 384314805, 384314808, 384314809, 384314810,
+        384314813, 384314816, 384314817, 384314818, 384314820, 384314821,
+        384314823, 384314825, 384314826, 384314827, 384314829, 384314831,
+        384314834, 384314835, 384314837, 384314838, 384314839, 384314840,
+        384314841, 384314842, 384314848, 384314849, 384314852, 384314854,
+        384314857, 384314859, 384314860, 384314862, 384314864, 384314866,
+        2408454611, 384314868, 581655292, 581655278, 384314876, 4432117397,
+        384314877, 384314882, 1988991297, 384314883, 384314884, 384314895,
+        384314901, 384314902, 384314905, 384314907, 384314909, 384314914,
+        384314918, 384314919, 384314927, 384314929, 384314930, 384314932,
+        384314935, 384314949, 384314641
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Kukuihaele CDP",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "wikipedia": "en:Kukuihaele, Hawaii"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162157137,
+      "center": {
+        "lat": 21.3345659,
+        "lon": -158.0641708
+      },
+      "nodes": [
+        1740946149, 1740946151, 1740946142, 7476995518, 110634760, 7476995517,
+        7476995516, 7476995515, 7476995514, 7476995513, 1740946125, 7476995381,
+        1740946156, 1740946138, 1740946157, 1740946155, 1740946120, 1740946127,
+        1740946128, 7462178452, 7462178438, 7462178441, 7462178442, 7462178443,
+        7462178444, 7462178445, 7462178446, 7462178447, 7462178448, 7462178449,
+        7462178450, 7462178451, 7462178439, 7462178440, 7462178465, 7462178466,
+        7462178483, 7462178482, 7462178481, 7462178480, 7462178477, 7462178476,
+        7462178475, 7462178474, 7462178479, 7462178473, 7462178472, 7462178471,
+        7462178470, 7462178469, 7462178468, 7462178478, 7462178467, 1739540928,
+        1739540929, 4434649425, 4434649426, 1738811262, 1738811338, 1738811310,
+        1738811288, 1738811270, 1738811291, 1738811282, 1738811267, 1553243527,
+        1738811352, 1738811348, 11133302824, 1738811300, 11133302825,
+        1738811279, 1738811346, 1738811303, 1738811351, 1740946149
+      ],
+      "tags": {
+        "landuse": "residential",
+        "name": "Villages of Kapolei",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "way",
+      "id": 402640215,
+      "center": {
+        "lat": 21.325705,
+        "lon": -158.0762341
+      },
+      "nodes": [
+        5851413181, 7499659471, 7499659472, 7499659473, 7499659474, 7499659475,
+        7499659476, 7499659477, 7499659478, 7499659479, 7499659480, 7499659481,
+        7499659482, 7499659483, 7499659484, 7499659485, 7499659486, 7499659487,
+        7499659488, 7499659489, 7477105643, 7477105642, 7477105641, 7477105644,
+        7477105654, 7477105653, 7477105652, 7477105651, 7477105650, 7477105649,
+        7477105648, 7477105647, 7477105646, 7477105645, 4050168352, 9544986278,
+        4050168347, 7477955283, 7477955282, 5851413180, 4050168346, 5851413181
+      ],
+      "tags": {
+        "landuse": "residential",
+        "name": "Mehana",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "way",
+      "id": 438925596,
+      "center": {
+        "lat": 19.6220716,
+        "lon": -155.9666219
+      },
+      "nodes": [
+        4365690853, 4365690813, 4365688687, 4365688668, 4365688660, 4365688654,
+        4365688653, 4365688649, 4365688645, 4365688640, 4365688637, 4365688636,
+        4365688635, 4365688634, 4365688633, 4365688629, 4365688628, 4365688627,
+        4365688626, 4365688625, 4365688624, 4365688623, 4365688622, 4365688621,
+        4365688620, 4365688617, 4365690949, 4365690956, 4365690960, 4365690963,
+        4365690969, 4365664484, 4365690991, 4365690996, 4365691002, 4365691010,
+        4365691013, 4365691020, 4365691023, 4365691025, 4365691030, 4365691034,
+        4365691036, 4365691039, 4365691044, 4365691048, 4365691049, 4365691050,
+        4365691053, 4365691055, 4365691059, 4365691062, 4365691064, 4365691068,
+        4365691069, 4365691070, 4365691075, 4365691076, 4365691081, 4365691084,
+        4365691088, 4365691091, 4365691093, 4365691097, 4365691099, 4365691104,
+        4365691107, 4365691110, 4365691113, 4365691122, 4365691124, 4365691127,
+        4365691130, 4365691131, 4365691137, 4365691142, 4365691149, 4365691151,
+        4365691052, 4365691054, 4365691057, 4365691061, 4365691063, 4365691074,
+        4365691077, 4365691080, 4365691082, 4365691085, 4365691089, 4365691090,
+        4365691096, 4365691098, 4365691100, 4365691101, 4365691102, 4365691103,
+        4365691105, 4365691106, 4365691108, 4365691111, 4365691116, 4365691118,
+        4365691123, 4365691126, 4365691129, 4365691133, 4365691135, 4365691139,
+        4365691140, 4365691141, 4365691143, 4365691144, 4365691145, 4365691146,
+        4365691132, 4365691120, 4365691114, 4365691094, 4365691086, 4365691078,
+        4365691071, 4365691065, 4365691058, 4365691051, 4365691022, 4365691014,
+        4365691000, 4365664488, 4365664472, 4365690958, 4365690948, 4365690944,
+        4365690941, 4365690933, 4365690926, 4365690922, 4365690908, 4365690893,
+        4365690889, 4365690883, 4365690877, 4365690864, 4365690853
+      ],
+      "tags": {
+        "landuse": "residential",
+        "name": "Pualani Estates",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "way",
+      "id": 438946717,
+      "center": {
+        "lat": 19.6453502,
+        "lon": -155.9823483
+      },
+      "nodes": [
+        4365856008, 4365856006, 4365856004, 4365856002, 4365856000, 4365856001,
+        4365856003, 4365856005, 4365856007, 4365859309, 4365859322, 4365859321,
+        4365859320, 4365859316, 4365859314, 9428461935, 4365859311, 4365856050,
+        4365856047, 4365856046, 4365856044, 4365856025, 4365856019, 4365856008
+      ],
+      "tags": {
+        "landuse": "residential",
+        "name": "Malulani Gardens",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "way",
+      "id": 439102914,
+      "center": {
+        "lat": 19.6362467,
+        "lon": -155.9825031
+      },
+      "nodes": [
+        4367367013, 4367367010, 4367367003, 4367367002, 4367367001, 4367367000,
+        4367366993, 4367366986, 4367366982, 4367366977, 4367366974, 4367366969,
+        4367366963, 4367366962, 4367366955, 4367366942, 4367366934, 4367366927,
+        4367366920, 4367366915, 4367366895, 4367366686, 4367366678, 4367366675,
+        4367366671, 4367366657, 4367366648, 4367366644, 4367366643, 4367366642,
+        4367366646, 150920709, 4367366660, 4367366896, 4367366901, 4367366912,
+        4367366916, 4367367005, 4367367031, 4367367029, 4367367030, 4367367032,
+        4367367034, 4367367036, 4367367038, 4367367037, 4367367035, 4367367033,
+        4367367027, 4367367015, 4367367013
+      ],
+      "tags": {
+        "ele": "57",
+        "gnis:feature_id": "1905293",
+        "landuse": "residential",
+        "name": "Aloha Kona",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "way",
+      "id": 439261300,
+      "center": {
+        "lat": 19.6388701,
+        "lon": -155.9707165
+      },
+      "nodes": [
+        4368908935, 4368908948, 4368908952, 4368908954, 4368908956, 4368908943,
+        4368908972, 4368908975, 4368908973, 4368908970, 4368908955, 4368908945,
+        4368914154, 4368908924, 4368908931, 4368914307, 4368914309, 4368914310,
+        4368914311, 4368914312, 4368914314, 4368914313, 4368914315, 4368914316,
+        4368914318, 4368914319, 4368914320, 4368914321, 4368914322, 4368914324,
+        4368914325, 4368914326, 4368914327, 4368914328, 4368914332, 4368914331,
+        4368914333, 4368914348, 4368914360, 4368914370, 4368914371, 4368914372,
+        4368914374, 4368914377, 4368914378, 4368914380, 4368914382, 4368914383,
+        4368914384, 4368914385, 4368914386, 4368914387, 4368914388, 4368914389,
+        4368914391, 4368914392, 4368914395, 4368914396, 4368914393, 4368914390,
+        4368914394, 4368914376, 4368914368, 4368914335, 4368914337, 4368914338,
+        4368914339, 4368914340, 4368914341, 4368914342, 4368914343, 4368914345,
+        4368914346, 4368914347, 4368914349, 4368914350, 4368914352, 4368914354,
+        4368914355, 4368914356, 4368914357, 4368914358, 4368914361, 4368914362,
+        4368914363, 4368914364, 4368914365, 4368914366, 4368914367, 4368914369,
+        4368914291, 4368914317, 4368914323, 4368914330, 4368914375, 4368914138,
+        4368914143, 4368914146, 4368914148, 4368914147, 4368914144, 4368914141,
+        4368914139, 4368914137, 4368913996, 4368913992, 4368913883, 4368913819,
+        4368913994, 4368914030, 4368914051, 4368914063, 4368914084, 4368914088,
+        4368914108, 4368914119, 4368914152, 4368908935
+      ],
+      "tags": {
+        "landuse": "residential",
+        "name": "Aloha Kona",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "way",
+      "id": 442152064,
+      "center": {
+        "lat": 19.0447778,
+        "lon": -155.6130991
+      },
+      "nodes": [
+        4398466619, 4398466586, 4398466556, 4398466546, 4398466595, 4398466608,
+        4398466614, 150919068, 4398466619
+      ],
+      "tags": {
+        "ele": "281",
+        "gnis:feature_id": "365130",
+        "landuse": "residential",
+        "name": "Kipuka Nahuaopala",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "way",
+      "id": 449108303,
+      "center": {
+        "lat": 20.6991974,
+        "lon": -156.42739
+      },
+      "nodes": [
+        4460740113, 4460740112, 150921390, 4460740574, 4460740803, 4460740113
+      ],
+      "tags": {
+        "ele": "139",
+        "gnis:feature_id": "1987875",
+        "landuse": "residential",
+        "name": "Maui Meadows",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "way",
+      "id": 703254473,
+      "center": {
+        "lat": 20.8493088,
+        "lon": -156.8274536
+      },
+      "nodes": [
+        3399321956, 6604283821, 6604283822, 6604283823, 6604283824, 6604283825,
+        6604283826, 6604283827, 6604283828, 6604283829, 6604283830, 6604283831,
+        6604283832, 6604283833, 6604283834, 3399321958, 3399321956
+      ],
+      "tags": {
+        "name": "Keomoku Village",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 903349796,
+      "center": {
+        "lat": 21.2755708,
+        "lon": -157.7571748
+      },
+      "nodes": [
+        8390137866, 10024778888, 8390137865, 10024778887, 7727247989,
+        10024778886, 10024778880, 6801058653, 10024778879, 6801058911,
+        8243243550, 8243243552, 10024803421, 10024803420, 10024803419,
+        6801058736, 10024803418, 10024803417, 10024778916, 8243243547,
+        10024778915, 10024778914, 10024778913, 8243243545, 10024778912,
+        10024778911, 10024778910, 10024778909, 10024778908, 8243243543,
+        10024778907, 10024778906, 8243243541, 10024778905, 8243243538,
+        8243243536, 8243243534, 8243243532, 10024778904, 8243243530,
+        10024778903, 10024778902, 10024778901, 8243243528, 10024778900,
+        8243243526, 10024778899, 8243243524, 10024778898, 10024778897,
+        10024778896, 10024778895, 10024778894, 10024778893, 8243243522,
+        10024778892, 10024778891, 8243243520, 10024778883, 8243243518,
+        10024778890, 8243237516, 8243237514, 8243237512, 8243237510, 8243237507,
+        10024778889, 6801058876, 8390137866
+      ],
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "364764",
+        "landuse": "residential",
+        "name": "Wailupe Peninsula",
+        "natural": "peninsula",
+        "place": "suburb",
+        "source": "GNIS"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119150,
+      "center": {
+        "lat": 21.9152614,
+        "lon": -159.5835511
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 262513148,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 262513147,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260061565,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260061564,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 372636185,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 372636184,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45813239,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616361,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616358,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260062438,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Hanapepe",
+        "name:haw": "Hanapēpē",
+        "place": "town",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2467470",
+        "wikipedia": "en:Hanapepe, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119167,
+      "center": {
+        "lat": 20.8869598,
+        "lon": -156.6726099
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 33616398,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 210455884,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 91334967,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Lahaina",
+        "place": "town",
+        "population": "12702",
+        "population:date": "2020",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q1012971",
+        "wikipedia": "en:Lahaina, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119172,
+      "center": {
+        "lat": 20.8738093,
+        "lon": -156.4513368
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 72325260,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 139639742,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 697854493,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 210462195,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 476341509,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 72357174,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 210462193,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Kahului",
+        "place": "city",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q1012975",
+        "wikipedia": "en:Kahului, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119177,
+      "center": {
+        "lat": 19.762226,
+        "lon": -155.0994108
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 33616526,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 212264424,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259158262,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Paukaa",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2215378",
+        "wikipedia": "en:Paukaa, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119178,
+      "center": {
+        "lat": 19.8484523,
+        "lon": -155.1042748
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 596079614,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 596079615,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45657379,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237030,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237018,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237031,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 596079613,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 596079616,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237023,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 596079618,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 596079625,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 596079623,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 596079622,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 596079621,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 596079620,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 217560241,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237024,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 596079612,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Pepeekeo",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2356964",
+        "wikipedia": "en:Pepeekeo, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119180,
+      "center": {
+        "lat": 19.489223,
+        "lon": -155.254583
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 438854467,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854480,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854465,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616190,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 509466808,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 509466809,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45685398,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45710186,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45722477,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 262171765,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854457,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 509466810,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1137766558,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45712765,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 509466811,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Volcano",
+        "place": "town",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q2428769",
+        "wikipedia": "en:Volcano, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119182,
+      "center": {
+        "lat": 20.008189,
+        "lon": -155.6514295
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 33616557,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 287201460,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 287201462,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Waimea/Kamuela",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q1318641",
+        "wikipedia": "en:Waimea, Hawaii County, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119183,
+      "center": {
+        "lat": 19.7451563,
+        "lon": -155.101576
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 259158263,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259158271,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259158270,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616497,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259158261,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Wainaku",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2433743",
+        "wikipedia": "en:Wainaku, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119185,
+      "center": {
+        "lat": 20.0410405,
+        "lon": -155.3688765
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 260231694,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45621743,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Paauilo",
+        "name:haw": "Paʻauilo",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2014052",
+        "wikipedia": "en:Paauilo, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119186,
+      "center": {
+        "lat": 19.1985118,
+        "lon": -155.4814577
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 150920696,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 33616562,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Pahala",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q2594148",
+        "wikipedia": "en:Pahala, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119187,
+      "center": {
+        "lat": 19.4994046,
+        "lon": -154.9449078
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 438854470,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1005737946,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616485,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 262145777,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "gnis:feature_id": "2414116",
+        "name": "Pahoa",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2529053",
+        "wikipedia": "en:Pahoa, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119188,
+      "center": {
+        "lat": 19.7917,
+        "lon": -155.099518
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 596079607,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854466,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616565,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259158260,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259157695,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259158269,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Papaikou",
+        "place": "village",
+        "type": "boundary",
+        "wikidata": "Q604153",
+        "wikipedia": "en:Papaikou, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119189,
+      "center": {
+        "lat": 19.504568,
+        "lon": -154.9135045
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 33616524,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854471,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Nanawale Estates",
+        "place": "town",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q2627317",
+        "wikipedia": "en:Nanawale Estates, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119192,
+      "center": {
+        "lat": 19.685067,
+        "lon": -155.087425
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 438313846,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259159387,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616494,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 686709171,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 686709170,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 253934907,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259159405,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259159385,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259159400,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259158271,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259158270,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259158268,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 21445111,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Hilo",
+        "place": "city",
+        "population": "44186",
+        "short_name": "Hilo",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q216258",
+        "wikipedia": "en:Hilo, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119193,
+      "center": {
+        "lat": 19.6292371,
+        "lon": -155.929812
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 198470574,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438347591,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 687188247,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 198470578,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 687252041,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45719429,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45640870,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438347578,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 439431769,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438925591,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438347601,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438925592,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438925590,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438347585,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 210833348,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 210833349,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438347567,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45685692,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616141,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 439431770,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45641627,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 439431767,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 439431768,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Holualoa",
+        "place": "town",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2101741",
+        "wikipedia": "en:Holualoa, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119194,
+      "center": {
+        "lat": 19.5810841,
+        "lon": -155.901784
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 439432609,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45724720,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45640769,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45655929,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 439431767,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45641627,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45685563,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45660189,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438705866,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438705880,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616143,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Honalo",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q956219",
+        "wikipedia": "en:Honalo, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119195,
+      "center": {
+        "lat": 19.4527368,
+        "lon": -155.8614425
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 10573509777,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 45710923,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260392133,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260393650,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45680757,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45620176,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260393648,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45656365,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260393652,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260393653,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260393651,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Honaunau-Napoopoo",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q2403215",
+        "wikipedia": "en:Honaunau-Napoopoo, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119198,
+      "center": {
+        "lat": 19.8691913,
+        "lon": -155.1130355
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 4857386408,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 259156729,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259156727,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259156730,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 493153058,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 493153057,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 259156728,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Honomu",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2660935",
+        "wikipedia": "en:Honomu, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119199,
+      "center": {
+        "lat": 19.5656154,
+        "lon": -155.9604029
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 45655929,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45640769,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45724720,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 439432609,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438705883,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 439431768,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Kahaluu-Keauhou",
+        "place": "town",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q924610",
+        "wikipedia": "en:Kahaluʻu-Keauhou, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119200,
+      "center": {
+        "lat": 19.6630481,
+        "lon": -155.954572
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 1200986469,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438347578,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438347574,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237714,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45719636,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 198660028,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237709,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 689959841,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 689959836,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 689959832,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237710,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 689959814,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237715,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45718723,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438347572,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616141,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45685692,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 210833349,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 210833348,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438347585,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438925591,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438347601,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438925592,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438925590,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438347567,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 198470574,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438347591,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 687188247,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 198470578,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 687252041,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45719429,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45640870,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "gnis:feature_id": "2414058",
+        "name": "Kailua",
+        "place": "town",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q627970",
+        "wikipedia": "en:Kailua-Kona, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119201,
+      "center": {
+        "lat": 19.7422063,
+        "lon": -156.016982
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 260237715,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 689959814,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237710,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 689959832,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 689959836,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 689959841,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237709,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 198660028,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45719636,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237714,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260237713,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 664152690,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "gnis:feature_id": "2414061",
+        "name": "Kalaoa",
+        "place": "town",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2217460",
+        "wikipedia": "en:Kalaoa, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119202,
+      "center": {
+        "lat": 20.228009,
+        "lon": -155.80616
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 33616581,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 281781019,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Kapaau",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q2981812",
+        "wikipedia": "en:Kapaau, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119204,
+      "center": {
+        "lat": 19.5298566,
+        "lon": -155.8992065
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 441240736,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 231936506,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 441240738,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 441240737,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260392187,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616396,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438705880,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438705861,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Kealakekua",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q1847338",
+        "wikipedia": "en:Kealakekua, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119206,
+      "center": {
+        "lat": 19.5782461,
+        "lon": -155.0721836
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 10573509784,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 438854468,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 612202621,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854462,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854477,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45722481,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854473,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616175,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854461,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Kurtistown",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q2064772",
+        "wikipedia": "en:Kurtistown, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119207,
+      "center": {
+        "lat": 19.9770549,
+        "lon": -155.235801
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 33616586,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 289835661,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Laupahoehoe",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q2630385",
+        "wikipedia": "en:Laupāhoehoe, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119209,
+      "center": {
+        "lat": 19.5317334,
+        "lon": -155.169946
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 33616175,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616173,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854460,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854467,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854458,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Mountain View",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q2333799",
+        "wikipedia": "en:Mountain View, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119210,
+      "center": {
+        "lat": 19.0707861,
+        "lon": -155.5785766
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 1138252324,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1138253584,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1138253582,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1138252317,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1138253583,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1138253581,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1138252320,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1138252321,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616589,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45639421,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 150916693,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Nāʻālehu",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q2426296",
+        "wikipedia": "en:Naalehu, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119213,
+      "center": {
+        "lat": 19.4704563,
+        "lon": -155.1341203
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 438854460,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854480,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854465,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854459,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Fern Forest",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q2660689",
+        "wikipedia": "en:Fern Forest, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119214,
+      "center": {
+        "lat": 20.226715,
+        "lon": -155.7795685
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 33616590,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Halaula",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "tiger:reviewed": "no",
+        "type": "boundary",
+        "wikidata": "Q2670120",
+        "wikipedia": "en:Halaula, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119216,
+      "center": {
+        "lat": 19.5314112,
+        "lon": -154.9105864
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 33616152,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 593933853,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45716364,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 593933851,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854471,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854463,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854470,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "gnis:feature_id": "2414036",
+        "name": "Hawaiian Beaches",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2575421",
+        "wikipedia": "en:Hawaiian Beaches, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119217,
+      "center": {
+        "lat": 19.0992673,
+        "lon": -155.7830864
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 1245119459,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1245119456,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1245098586,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1245114036,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1245114035,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Hawaiian Ocean View",
+        "place": "town",
+        "type": "boundary",
+        "wikidata": "Q2594609",
+        "wikipedia": "en:Hawaiian Ocean View, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119219,
+      "center": {
+        "lat": 19.4923545,
+        "lon": -155.891333
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 260392187,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 441240737,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 441240738,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 231936506,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 441240736,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260393654,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260393651,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45710923,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260392133,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260393650,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45680757,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45620176,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260393648,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 45656365,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260393652,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 260392188,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Captain Cook",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2448238",
+        "wikipedia": "en:Captain Cook, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119220,
+      "center": {
+        "lat": 21.4405705,
+        "lon": -157.8352175
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 33616305,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "gnis:feature_id": "2413991",
+        "name": "Ahuimanu",
+        "place": "suburb",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2152159",
+        "wikipedia": "en:ʻĀhuimanu"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119229,
+      "center": {
+        "lat": 21.420415,
+        "lon": -157.8126955
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 33616278,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682843,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682837,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682848,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682788,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 685732832,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 685732834,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 685732813,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1230010016,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 954466750,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 629053071,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682922,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682828,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682799,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "gnis:feature_id": "2414040",
+        "name": "Heeia",
+        "name:haw": "Heʻeia",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2185924",
+        "wikipedia": "en:Heʻeia, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119231,
+      "center": {
+        "lat": 21.3285048,
+        "lon": -157.7994923
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 21442033,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 155072422,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1335027638,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1300364041,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1335027634,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1301026418,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 724844753,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 222640136,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 484429438,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 456826902,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 402144868,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 402144883,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 402144896,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 402144879,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 992044784,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1353886240,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1353884416,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1353884414,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 317140351,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733750919,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725233055,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733747619,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733747617,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733747616,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733747613,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733747618,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733758186,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733747614,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725233053,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733749577,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733445692,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 732937012,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733445693,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725233056,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228340,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 732937010,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228344,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228349,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 210525075,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228325,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725233780,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725233781,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228326,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228350,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228358,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228328,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228327,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228359,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228334,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228335,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 725228357,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733758187,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733752989,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733454261,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 733454262,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 33616357,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 631597603,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 631675365,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 631675359,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 631675361,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 631675360,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 631675362,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 631675350,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 724844749,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 724844748,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1335036960,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 724844747,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 724844751,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1300380524,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1300380526,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1300401801,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1293759327,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1300401802,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1335027632,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1300380522,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1335027633,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1335027637,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "alt_name:es": "Honolulú",
+        "border_type": "city",
+        "boundary": "place",
+        "name": "Honolulu",
+        "name:ar": "هونولولو",
+        "name:azb": "هونولولو",
+        "name:ckb": "هۆنۆلولو",
+        "name:de": "Honolulu",
+        "name:el": "Χονολουλού",
+        "name:en": "Honolulu",
+        "name:es": "Honolulu",
+        "name:fa": "هونولولو",
+        "name:ko": "호놀룰루",
+        "name:ks": "ہونولولو",
+        "name:mi": "Honoruru",
+        "name:pnb": "ہونولولو",
+        "name:ta": "ஹொனலுலு",
+        "name:ur": "ہونولولو",
+        "name:zh-Hans": "檀香山",
+        "name:zh-Hant": "檀香山",
+        "place": "city",
+        "type": "boundary",
+        "wikidata": "Q18094",
+        "wikipedia": "en:Honolulu"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119237,
+      "center": {
+        "lat": 21.4053595,
+        "lon": -157.795252
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 62682843,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682837,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682848,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682788,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 685732832,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 685732834,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 685732813,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1230010016,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 954466750,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 629053071,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682922,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682828,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 506136862,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 506137623,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 506136861,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 62682861,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "gnis:feature_id": "2414063",
+        "name": "Kaneohe",
+        "place": "town",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q1484530",
+        "wikipedia": "en:Kaneohe, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119265,
+      "center": {
+        "lat": 21.585252,
+        "lon": -157.8932515
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 150918029,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 33616420,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1090875426,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "gnis:feature_id": "2414129",
+        "name": "Punaluu",
+        "name:haw": "Punaluʻu",
+        "place": "village",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2344651",
+        "wikipedia": "en:Punaluu, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 119271,
+      "center": {
+        "lat": 21.445758,
+        "lon": -158.182538
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 504548345,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 504548343,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 262377043,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 12202499,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 685984840,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 685984865,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 262377041,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "gnis:feature_id": "2414152",
+        "name": "Waianae",
+        "place": "town",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q1413686",
+        "wikipedia": "en:Waianae, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 6526734,
+      "center": {
+        "lat": 19.5249393,
+        "lon": -154.9936428
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 33616149,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Ainaloa",
+        "place": "village",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 6526735,
+      "center": {
+        "lat": 19.5600854,
+        "lon": -155.012389
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 612202621,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854462,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 150684476,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854476,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 438854469,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "census",
+        "name": "Orchidlands Estates",
+        "place": "village",
+        "source": "BING & TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q2660915",
+        "wikipedia": "en:Orchidlands Estates, Hawaii"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 7406646,
+      "center": {
+        "lat": 21.3798737,
+        "lon": -157.9767221
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 622268918,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1300978936,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1335057177,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 508894287,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1335057181,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1335057195,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1301026414,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1301026405,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1335057182,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1335057176,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 508894281,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 508857134,
+          "role": "inner"
+        }
+      ],
+      "tags": {
+        "name": "Pearl City",
+        "place": "town",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}

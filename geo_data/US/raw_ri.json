@@ -1,0 +1,2121 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-04-08T19:16:10Z",
+    "timestamp_areas_base": "2025-02-06T02:17:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 158798383,
+      "lat": 41.3223222,
+      "lon": -71.8161788,
+      "tags": {
+        "ele": "2",
+        "gnis:feature_id": "1217591",
+        "name": "Misquamicut",
+        "place": "village",
+        "wikidata": "Q6018580"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158799202,
+      "lat": 41.4801166,
+      "lon": -71.5227103,
+      "tags": {
+        "ele": "75",
+        "gnis:feature_id": "1217812",
+        "name": "Kingston",
+        "place": "village",
+        "population": "6202",
+        "population:date": "2020",
+        "website": "https://www.kingstonnh.org/",
+        "wikidata": "Q1742162",
+        "wikipedia": "en:Kingston, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158801293,
+      "lat": 41.4323917,
+      "lon": -71.4575764,
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "1219895",
+        "name": "Narragansett Pier",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158802113,
+      "lat": 41.5075992,
+      "lon": -71.7161824,
+      "tags": {
+        "ele": "26",
+        "gnis:feature_id": "1217875",
+        "name": "Hope Valley",
+        "place": "village",
+        "population": "1612",
+        "population:date": "2010",
+        "wikidata": "Q1835270",
+        "wikipedia": "en:Hope Valley, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158803191,
+      "lat": 41.9481541,
+      "lon": -71.648677,
+      "tags": {
+        "ele": "115",
+        "gnis:feature_id": "1218914",
+        "name": "Mapleville",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158803555,
+      "lat": 41.9698209,
+      "lon": -71.4736712,
+      "tags": {
+        "ele": "50",
+        "gnis:feature_id": "1218969",
+        "name": "Manville",
+        "place": "village",
+        "wikidata": "Q3287131"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158804286,
+      "lat": 41.8711524,
+      "lon": -71.5520471,
+      "tags": {
+        "ele": "87",
+        "gnis:feature_id": "1218665",
+        "name": "Greenville",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158804387,
+      "lat": 41.8148223,
+      "lon": -71.4464469,
+      "tags": {
+        "ele": "13",
+        "gnis:feature_id": "1218721",
+        "name": "Olneyville",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158805100,
+      "lat": 41.3653803,
+      "lon": -71.4867226,
+      "tags": {
+        "ele": "5",
+        "gnis:feature_id": "1219866",
+        "name": "Point Judith",
+        "place": "village",
+        "wikidata": "Q2100774"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158805898,
+      "lat": 41.4638833,
+      "lon": -71.6616008,
+      "tags": {
+        "ele": "21",
+        "gnis:feature_id": "1217710",
+        "name": "Carolina",
+        "place": "village",
+        "wikidata": "Q5044759"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158810649,
+      "lat": 41.825377,
+      "lon": -71.6703442,
+      "tags": {
+        "ele": "198",
+        "gnis:feature_id": "1220021",
+        "name": "Chopmist",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158810787,
+      "lat": 41.4362113,
+      "lon": -71.6945097,
+      "tags": {
+        "ele": "16",
+        "gnis:feature_id": "1217698",
+        "name": "Wood River Junction",
+        "place": "village",
+        "wikidata": "Q8032263"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158810798,
+      "lat": 41.8317661,
+      "lon": -71.5872858,
+      "tags": {
+        "ele": "93",
+        "gnis:feature_id": "1218647",
+        "name": "North Scituate",
+        "place": "village",
+        "wikidata": "Q7545681"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158810922,
+      "lat": 41.5198215,
+      "lon": -71.76118,
+      "tags": {
+        "ele": "98",
+        "gnis:feature_id": "1217862",
+        "name": "Rockville",
+        "place": "village",
+        "wikidata": "Q16899405"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158811174,
+      "lat": 41.3775996,
+      "lon": -71.8272911,
+      "tags": {
+        "ele": "11",
+        "gnis:feature_id": "1217643",
+        "name": "Westerly",
+        "place": "town",
+        "population": "18423",
+        "population:date": "2020",
+        "source:population": "US Census",
+        "wikidata": "Q4247108",
+        "wikipedia": "en:Westerly (CDP), Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158811402,
+      "lat": 41.5101085,
+      "lon": -71.1711648,
+      "tags": {
+        "ele": "32",
+        "gnis:feature_id": "1219821",
+        "name": "Little Compton",
+        "place": "town",
+        "population": "3543",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q2448539"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158811732,
+      "lat": 41.7000996,
+      "lon": -71.6828444,
+      "tags": {
+        "gnis:feature_id": "1219343",
+        "name": "Coventry",
+        "place": "town",
+        "population": "34672",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q1016933",
+        "wikipedia": "en:Coventry, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158811904,
+      "lat": 41.8239891,
+      "lon": -71.4128343,
+      "tags": {
+        "capital": "4",
+        "ele": "2",
+        "gnis:feature_id": "1219851",
+        "name": "Providence",
+        "name:ar": "بروفيدنس",
+        "name:en": "Providence",
+        "name:pl": "Providence",
+        "name:ru": "Провиденс",
+        "name:ta": "பிராவிடென்ஸ்",
+        "name:uk": "Провіденс",
+        "place": "city",
+        "population": "179472",
+        "state_capital": "yes",
+        "wikidata": "Q18383",
+        "wikipedia": "en:Providence, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158813296,
+      "lat": 41.7407661,
+      "lon": -71.3084633,
+      "tags": {
+        "ele": "7",
+        "gnis:feature_id": "1218511",
+        "name": "Barrington",
+        "place": "town",
+        "population": "16566",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q641871"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158813931,
+      "lat": 41.437324,
+      "lon": -71.5014469,
+      "tags": {
+        "ele": "4",
+        "gnis:feature_id": "1219863",
+        "name": "Wakefield",
+        "place": "village",
+        "wikidata": "Q7961032"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158814108,
+      "lat": 41.8873726,
+      "lon": -71.3876472,
+      "tags": {
+        "ele": "27",
+        "name": "Central Falls",
+        "name:sr": "Централ Фолс",
+        "place": "city",
+        "population": "18994",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q54273"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158814803,
+      "lat": 41.6666807,
+      "lon": -71.1914794,
+      "tags": {
+        "ele": "57",
+        "gnis:feature_id": "1218543",
+        "name": "North Tiverton",
+        "place": "suburb",
+        "population": "7809",
+        "population:date": "2020",
+        "wikidata": "Q122550740",
+        "wikipedia": "en:Tiverton (CDP), Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158814873,
+      "lat": 41.3137109,
+      "lon": -71.8497909,
+      "tags": {
+        "ele": "13",
+        "gnis:feature_id": "1217588",
+        "name": "Watch Hill",
+        "place": "village",
+        "wikidata": "Q6166526"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158815340,
+      "lat": 41.8789531,
+      "lon": -71.3821203,
+      "tags": {
+        "gnis:feature_id": "1218926",
+        "name": "Pawtucket",
+        "place": "city",
+        "population": "72998",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q49200"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158815963,
+      "lat": 41.3678793,
+      "lon": -71.5947825,
+      "tags": {
+        "ele": "8",
+        "gnis:feature_id": "1217730",
+        "name": "Green Hill",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158816155,
+      "lat": 41.9667652,
+      "lon": -71.5495071,
+      "tags": {
+        "ele": "110",
+        "gnis:feature_id": "1219345",
+        "name": "North Smithfield",
+        "place": "town",
+        "population": "11288",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q1816636"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158817217,
+      "lat": 41.779588,
+      "lon": -71.4366813,
+      "tags": {
+        "ele": "19",
+        "gnis:feature_id": "1218689",
+        "name": "Cranston",
+        "name:sr": "Кранстон",
+        "place": "city",
+        "population": "81479",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q49197"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158817444,
+      "lat": 41.9067663,
+      "lon": -71.3906119,
+      "tags": {
+        "ele": "32",
+        "gnis:feature_id": "1218930",
+        "name": "Valley Falls",
+        "place": "village",
+        "wikidata": "Q3476807"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158817673,
+      "lat": 41.5739753,
+      "lon": -71.4614464,
+      "tags": {
+        "ele": "19",
+        "gnis:feature_id": "1218102",
+        "name": "Wickford",
+        "place": "village",
+        "wikidata": "Q7998366"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158818613,
+      "lat": 41.3309336,
+      "lon": -71.7550658,
+      "tags": {
+        "ele": "14",
+        "gnis:feature_id": "1217594",
+        "name": "Weekapaug",
+        "place": "village",
+        "wikidata": "Q4247455"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158821421,
+      "lat": 41.9150997,
+      "lon": -71.6714586,
+      "tags": {
+        "ele": "131",
+        "gnis:feature_id": "1218897",
+        "name": "Chepachet",
+        "place": "village",
+        "wikidata": "Q2962682"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158825271,
+      "lat": 41.7003786,
+      "lon": -71.4597804,
+      "tags": {
+        "ele": "11",
+        "gnis:feature_id": "1218394",
+        "name": "Apponaug",
+        "place": "village",
+        "wikidata": "Q4781663"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158826160,
+      "lat": 41.9945427,
+      "lon": -71.5633965,
+      "tags": {
+        "ele": "77",
+        "gnis:feature_id": "1218847",
+        "name": "Forestdale",
+        "place": "village",
+        "wikidata": "Q5469229"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158826401,
+      "lat": 41.7778772,
+      "lon": -71.6756221,
+      "tags": {
+        "ele": "135",
+        "gnis:feature_id": "1218580",
+        "name": "Clayville",
+        "place": "village",
+        "wikidata": "Q5130397"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158827161,
+      "lat": 41.9881752,
+      "lon": -71.4120838,
+      "tags": {
+        "ele": "58",
+        "gnis:feature_id": "1218984",
+        "name": "Diamond Hill",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158837260,
+      "lat": 41.9514821,
+      "lon": -71.4537082,
+      "tags": {
+        "ele": "44",
+        "gnis:feature_id": "1218959",
+        "name": "Albion",
+        "place": "village",
+        "wikidata": "Q4712475"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158837846,
+      "lat": 41.4899827,
+      "lon": -71.3137707,
+      "tags": {
+        "capital": "6",
+        "gnis:feature_id": "1217986",
+        "name": "Newport",
+        "name:en": "Newport",
+        "name:ru": "Ньюпорт",
+        "name:uk": "Ньюпорт",
+        "place": "city",
+        "population": "24409",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "website": "https://www.cityofnewport.com/",
+        "wikidata": "Q54264",
+        "wikipedia": "en:Newport, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158838236,
+      "lat": 41.8500997,
+      "lon": -71.4661703,
+      "tags": {
+        "gnis:feature_id": "1219348",
+        "name": "North Providence",
+        "place": "town",
+        "population": "32993",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q1625652",
+        "wikipedia": "en:North Providence, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158838308,
+      "lat": 41.7334334,
+      "lon": -71.5625625,
+      "tags": {
+        "ele": "67",
+        "gnis:feature_id": "1218345",
+        "name": "Hope",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158839591,
+      "lat": 41.3770799,
+      "lon": -71.5162494,
+      "tags": {
+        "ele": "3",
+        "gnis:feature_id": "1217754",
+        "name": "Jerusalem",
+        "place": "village",
+        "wikidata": "Q6185060"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158840718,
+      "lat": 41.5153203,
+      "lon": -71.7017627,
+      "tags": {
+        "ele": "35",
+        "gnis:feature_id": "1217882",
+        "name": "Wyoming",
+        "place": "village",
+        "wikidata": "Q4248113"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158842122,
+      "lat": 41.7342669,
+      "lon": -71.5481175,
+      "tags": {
+        "ele": "54",
+        "gnis:feature_id": "1218340",
+        "name": "Fiskeville",
+        "place": "village",
+        "wikidata": "Q5455198"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158846132,
+      "lat": 41.8987106,
+      "lon": -71.4131127,
+      "tags": {
+        "ele": "33",
+        "gnis:feature_id": "1218936",
+        "name": "Saylesville",
+        "place": "village",
+        "wikidata": "Q7429255"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158846593,
+      "lat": 41.5456578,
+      "lon": -71.2914388,
+      "tags": {
+        "ele": "56",
+        "gnis:feature_id": "1220013",
+        "name": "Middletown",
+        "place": "town",
+        "population": "16431",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q1013038"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158846678,
+      "lat": 41.4501021,
+      "lon": -71.4495005,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "1219971",
+        "name": "Narragansett",
+        "place": "town",
+        "population": "16708",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q1932484"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158851245,
+      "lat": 41.6024068,
+      "lon": -71.2503157,
+      "tags": {
+        "ele": "43",
+        "gnis:feature_id": "1218173",
+        "name": "Portsmouth",
+        "place": "town",
+        "population": "17011",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q1787188"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158851731,
+      "lat": 42.0028761,
+      "lon": -71.5147839,
+      "tags": {
+        "ele": "56",
+        "gnis:feature_id": "1219339",
+        "name": "Woonsocket",
+        "name:en": "Woonsocket",
+        "place": "city",
+        "population": "41616",
+        "wikidata": "Q54276"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158853041,
+      "lat": 41.9556539,
+      "lon": -71.7022899,
+      "tags": {
+        "ele": "130",
+        "gnis:feature_id": "1218912",
+        "name": "Pascoag",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158853356,
+      "lat": 41.938988,
+      "lon": -71.4306138,
+      "tags": {
+        "ele": "43",
+        "gnis:feature_id": "1218951",
+        "name": "Ashton",
+        "place": "village",
+        "wikidata": "Q4806047"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158853692,
+      "lat": 41.5306567,
+      "lon": -71.5161711,
+      "tags": {
+        "ele": "41",
+        "gnis:feature_id": "1217938",
+        "name": "Slocum",
+        "place": "village",
+        "population": "1054",
+        "population:date": "2020",
+        "wikidata": "Q17109541",
+        "wikipedia": "en:Slocum, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158853741,
+      "lat": 41.4470451,
+      "lon": -71.6256185,
+      "tags": {
+        "ele": "31",
+        "gnis:feature_id": "1217714",
+        "name": "Kenyon",
+        "place": "village",
+        "wikidata": "Q16909916"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158853992,
+      "lat": 41.4376,
+      "lon": -71.7172884,
+      "tags": {
+        "ele": "21",
+        "gnis:feature_id": "1217696",
+        "name": "Alton",
+        "place": "village",
+        "wikidata": "Q4736855"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158855386,
+      "lat": 41.5774793,
+      "lon": -71.5376881,
+      "tags": {
+        "ele": "81",
+        "gnis:feature_id": "1220009",
+        "name": "Exeter",
+        "place": "town",
+        "population": "6206",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q1026412"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158855881,
+      "lat": 41.6912104,
+      "lon": -71.7459022,
+      "tags": {
+        "ele": "130",
+        "gnis:feature_id": "1219521",
+        "name": "Greene",
+        "place": "village",
+        "wikidata": "Q3116130"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158855884,
+      "lat": 41.8194081,
+      "lon": -71.376257,
+      "tags": {
+        "ele": "19",
+        "gnis:feature_id": "1219590",
+        "name": "East Providence",
+        "name:ru": "Ист-Провиденс",
+        "name:uk": "Іст-Провіденс",
+        "place": "city",
+        "population": "49123",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q54268"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158857132,
+      "lat": 41.5252361,
+      "lon": -71.1325712,
+      "tags": {
+        "ele": "17",
+        "gnis:feature_id": "1218180",
+        "name": "Pottersville",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158857896,
+      "lat": 41.6951003,
+      "lon": -71.5492285,
+      "tags": {
+        "ele": "67",
+        "gnis:feature_id": "1218318",
+        "name": "Anthony",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158858013,
+      "lat": 41.4594366,
+      "lon": -71.7803046,
+      "tags": {
+        "ele": "51",
+        "gnis:feature_id": "1217663",
+        "name": "Hopkinton",
+        "place": "town",
+        "population": "8051",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q1627686",
+        "wikipedia": "en:Hopkinton, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158858104,
+      "lat": 41.7303794,
+      "lon": -71.2825494,
+      "tags": {
+        "ele": "15",
+        "gnis:feature_id": "1218506",
+        "name": "Warren",
+        "place": "town",
+        "population": "11192",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q1027951"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158858609,
+      "lat": 41.6770463,
+      "lon": -71.2661597,
+      "tags": {
+        "capital": "6",
+        "ele": "35",
+        "gnis:feature_id": "1783504",
+        "name": "Bristol",
+        "place": "town",
+        "population": "24498",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q917809"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158859274,
+      "lat": 41.8314878,
+      "lon": -71.7506248,
+      "tags": {
+        "ele": "168",
+        "gnis:feature_id": "1218565",
+        "name": "North Foster",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158859649,
+      "lat": 41.4831567,
+      "lon": -71.5514497,
+      "tags": {
+        "ele": "31",
+        "gnis:feature_id": "1217815",
+        "name": "West Kingston",
+        "place": "village",
+        "wikidata": "Q7985633"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158859793,
+      "lat": 41.8453781,
+      "lon": -71.3519985,
+      "tags": {
+        "ele": "18",
+        "gnis:feature_id": "1218777",
+        "name": "Rumford",
+        "place": "village",
+        "wikidata": "Q7379262"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158860260,
+      "lat": 41.3992625,
+      "lon": -71.7475174,
+      "tags": {
+        "ele": "12",
+        "gnis:feature_id": "1217668",
+        "name": "Bradford",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158860266,
+      "lat": 42.000376,
+      "lon": -71.579786,
+      "tags": {
+        "ele": "80",
+        "gnis:feature_id": "1218995",
+        "name": "Slatersville",
+        "place": "village",
+        "wikidata": "Q14358808"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158861144,
+      "lat": 41.5078795,
+      "lon": -71.4245004,
+      "tags": {
+        "ele": "38",
+        "gnis:feature_id": "1218027",
+        "name": "Saunderstown",
+        "place": "village",
+        "wikidata": "Q7427482"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158861643,
+      "lat": 41.4970465,
+      "lon": -71.3672755,
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "1219952",
+        "name": "Jamestown",
+        "place": "town",
+        "population": "5535",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q1378580"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158863860,
+      "lat": 41.6992717,
+      "lon": -71.4586114,
+      "tags": {
+        "ele": "11",
+        "gnis:feature_id": "1220018",
+        "name": "Warwick",
+        "name:sr": "Ворвик",
+        "place": "city",
+        "population": "85925",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q49195"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158871579,
+      "lat": 41.5514283,
+      "lon": -71.4693875,
+      "tags": {
+        "ele": "25",
+        "gnis:feature_id": "1219340",
+        "name": "North Kingstown",
+        "place": "town",
+        "population": "26734",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q2000741"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158876034,
+      "lat": 41.4512129,
+      "lon": -71.4986694,
+      "tags": {
+        "ele": "11",
+        "gnis:feature_id": "1219917",
+        "name": "Peacedale",
+        "place": "village",
+        "wikidata": "Q7157359"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158877707,
+      "lat": 41.4484339,
+      "lon": -71.63673,
+      "tags": {
+        "ele": "29",
+        "gnis:feature_id": "1217712",
+        "name": "Shannock",
+        "place": "village",
+        "wikidata": "Q7488804"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158901404,
+      "lat": 41.3356563,
+      "lon": -71.7083974,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "1217618",
+        "name": "Quonochontaug",
+        "place": "village",
+        "wikidata": "Q4246750"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158902941,
+      "lat": 41.6603788,
+      "lon": -71.4558911,
+      "tags": {
+        "capital": "6",
+        "ele": "48",
+        "gnis:feature_id": "1220017",
+        "name": "East Greenwich",
+        "place": "town",
+        "population": "13462",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q999257",
+        "wikipedia": "en:East Greenwich, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158903543,
+      "lat": 41.9220433,
+      "lon": -71.549507,
+      "tags": {
+        "ele": "122",
+        "gnis:feature_id": "1219553",
+        "name": "Smithfield",
+        "place": "town",
+        "population": "21430",
+        "start_date": "1636",
+        "website": "https://smithfieldri.com/",
+        "wikidata": "Q1027898",
+        "wikipedia": "en:Smithfield, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158903639,
+      "lat": 41.3769511,
+      "lon": -71.5113611,
+      "tags": {
+        "ele": "2",
+        "gnis:feature_id": "1217464",
+        "name": "Galilee",
+        "place": "village",
+        "wikidata": "Q5518600"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158903674,
+      "lat": 41.5543106,
+      "lon": -71.1292313,
+      "tags": {
+        "ele": "11",
+        "gnis:feature_id": "1218191",
+        "name": "Adamsville",
+        "place": "village",
+        "wikidata": "Q4680531"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158903676,
+      "lat": 41.7061296,
+      "lon": -71.5221451,
+      "tags": {
+        "gnis:feature_id": "1218334",
+        "name": "West Warwick",
+        "place": "town",
+        "population": "31012",
+        "population:date": "2020",
+        "website": "https://www.westwarwickri.org/",
+        "wikidata": "Q1280233",
+        "wikipedia": "en:West Warwick, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158906053,
+      "lat": 41.3831566,
+      "lon": -71.641729,
+      "tags": {
+        "ele": "5",
+        "gnis:feature_id": "1217684",
+        "name": "Charlestown",
+        "place": "town",
+        "population": "1714",
+        "population:date": "2020",
+        "source:population": "US Census",
+        "wikidata": "Q108415358",
+        "wikipedia": "en:Charlestown (CDP), Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158906575,
+      "lat": 41.1722089,
+      "lon": -71.5573011,
+      "tags": {
+        "ele": "11",
+        "gnis:feature_id": "1219853",
+        "name": "New Shoreham",
+        "place": "town",
+        "population": "1410",
+        "population:date": "2020",
+        "source:population": "United States Census",
+        "website": "https://www.newshorehamri.gov/",
+        "wikidata": "Q2448480",
+        "wikipedia": "en:New Shoreham, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158906816,
+      "lat": 41.4234812,
+      "lon": -71.785538,
+      "tags": {
+        "ele": "19",
+        "gnis:feature_id": "1217657",
+        "name": "Ashaway",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158907007,
+      "lat": 41.9912094,
+      "lon": -71.539229,
+      "tags": {
+        "ele": "80",
+        "gnis:feature_id": "1219559",
+        "name": "Union Village",
+        "place": "village",
+        "wikidata": "Q7886385"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158910808,
+      "lat": 41.6848227,
+      "lon": -71.5136717,
+      "tags": {
+        "ele": "76",
+        "gnis:feature_id": "1218312",
+        "name": "Crompton",
+        "place": "village",
+        "wikidata": "Q5187636"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158913479,
+      "lat": 41.9656539,
+      "lon": -71.6745112,
+      "tags": {
+        "ele": "99",
+        "gnis:feature_id": "1218783",
+        "name": "Harrisville",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158917649,
+      "lat": 41.3784352,
+      "lon": -71.5458919,
+      "tags": {
+        "ele": "5",
+        "gnis:feature_id": "1217739",
+        "name": "Matunuck",
+        "place": "village",
+        "wikidata": "Q14224406"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158918194,
+      "lat": 41.8537098,
+      "lon": -71.7581249,
+      "tags": {
+        "ele": "216",
+        "gnis:feature_id": "1219542",
+        "name": "Foster",
+        "place": "town",
+        "population": "4509",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q938755"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158918520,
+      "lat": 41.6134343,
+      "lon": -71.4753363,
+      "tags": {
+        "ele": "25",
+        "gnis:feature_id": "1218117",
+        "name": "Davisville",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158919155,
+      "lat": 41.9667656,
+      "lon": -71.4328363,
+      "tags": {
+        "ele": "81",
+        "gnis:feature_id": "1219346",
+        "name": "Cumberland",
+        "place": "town",
+        "population": "34345",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q1143667"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158919510,
+      "lat": 41.8228769,
+      "lon": -71.7036788,
+      "tags": {
+        "ele": "121",
+        "gnis:feature_id": "1218592",
+        "name": "South Foster",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 923786258,
+      "lat": 41.6047381,
+      "lon": -71.6074257,
+      "tags": {
+        "historic": "ruins",
+        "name": "Hell's Half Acre",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418128723,
+      "lat": 41.4998322,
+      "lon": -71.660263,
+      "tags": {
+        "name": "Richmond",
+        "place": "town",
+        "population": "7708",
+        "wikidata": "Q2151254"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2439158519,
+      "lat": 41.454944,
+      "lon": -71.5394738,
+      "tags": {
+        "capital": "6",
+        "name": "South Kingstown",
+        "place": "town",
+        "population": "30639",
+        "wikidata": "Q163507"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2439163623,
+      "lat": 41.9699753,
+      "lon": -71.6977885,
+      "tags": {
+        "name": "Burrillville",
+        "place": "town",
+        "population": "15955",
+        "wikidata": "Q1016937"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2440676405,
+      "lat": 41.7851126,
+      "lon": -71.611035,
+      "tags": {
+        "name": "Scituate",
+        "place": "town",
+        "population": "10329",
+        "wikidata": "Q2462665"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2440679314,
+      "lat": 41.910429,
+      "lon": -71.7176367,
+      "tags": {
+        "gnis:feature_id": "1220070",
+        "name": "Glocester",
+        "place": "town",
+        "population": "9974",
+        "wikidata": "Q2569213",
+        "wikipedia": "en:Glocester, Rhode Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2440680202,
+      "lat": 41.9529237,
+      "lon": -71.4663863,
+      "tags": {
+        "name": "Lincoln",
+        "place": "town",
+        "population": "21105",
+        "wikidata": "Q1816735"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2440685822,
+      "lat": 41.8310404,
+      "lon": -71.5412101,
+      "tags": {
+        "name": "Johnston",
+        "place": "town",
+        "population": "28769",
+        "wikidata": "Q368233"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2440687051,
+      "lat": 41.6226185,
+      "lon": -71.6657892,
+      "tags": {
+        "name": "West Greenwich",
+        "place": "town",
+        "population": "6135",
+        "wikidata": "Q1644523"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5287431477,
+      "lat": 41.6257406,
+      "lon": -71.166333,
+      "tags": {
+        "name": "Tiverton",
+        "place": "town",
+        "population": "15780",
+        "wikidata": "Q1027996",
+        "wikipedia": "en:Tiverton, Rhode Island"
+      }
+    },
+    {
+      "type": "way",
+      "id": 425652283,
+      "center": {
+        "lat": 41.82462,
+        "lon": -71.401428
+      },
+      "nodes": [
+        4247757137, 4247757116, 4247757110, 4247757109, 4247757099, 4247757049,
+        4247757021, 4247756983, 4247756984, 1874863043, 4247756981, 4247756963,
+        1874863013, 4247756958, 4247756959, 4247756954, 4247756953, 1874863109,
+        4247756948, 4247756933, 4247756920, 4247756896, 4247756895, 4247756902,
+        4247756905, 4247756909, 4247756874, 4247756844, 4247756726, 4247756727,
+        4247756728, 4247756729, 4247756730, 4247756732, 4247756734, 4247756736,
+        4247756762, 4247756820, 4247756841, 4247756843, 4247756847, 4247756850,
+        4247756859, 4247756914, 4247756917, 2100936250, 4247756928, 4247756930,
+        4247756951, 4247756965, 4247756987, 4247757008, 4247757029, 4247757039,
+        4247757060, 4247757056, 1874863077, 4247757059, 4247757063, 4247757071,
+        4247757072, 4247757073, 4247757074, 4247757076, 4247757078, 4247757079,
+        4247757082, 4247757083, 4247757085, 4247757086, 4247757087, 4247757088,
+        4247757089, 4247757090, 4247757091, 4247757092, 4247757093, 4247757094,
+        4247757096, 4247757097, 4247757098, 1874863153, 4249422285, 4249422746,
+        4247757107, 4247757108, 4249423626, 4249424600, 4247757131, 4247757130,
+        4249424672, 4249424677, 1874863143, 4247757160, 4247757166, 4247757158,
+        4247757155, 4249424675, 12200061912, 4249424690, 12282402268,
+        12282402267, 12282402265, 12282402266, 1875433360, 4249424683,
+        4247757165, 4247757163, 4247757162, 4247757159, 4247757157, 4247757156,
+        4247757150, 4247757145, 4247757142, 4247757140, 4247757137
+      ],
+      "tags": {
+        "name": "Wriston Quad",
+        "place": "city_block"
+      }
+    },
+    {
+      "type": "way",
+      "id": 465986080,
+      "center": {
+        "lat": 41.8234844,
+        "lon": -71.3996017
+      },
+      "nodes": [
+        4608792724, 4608792726, 4608856589, 4608856590, 4608856591, 4608856592,
+        4608856593, 4608856594, 4608856599, 4608856641, 4608856647, 4608856648,
+        4608856649, 4608856650, 4608856655, 4608856656, 4608856657, 4608856661,
+        4608856803, 4608856797, 4608856792, 4608856791, 4608856790, 4608856668,
+        1874863157, 1874863372, 4608856669, 4608856670, 4608856855, 4608856856,
+        12173937124, 4608856857, 4608856858, 12173937125, 12173937126,
+        12173937127, 4608856859, 12173937131, 12173937132, 4608792723,
+        1959958480, 12173937122, 12173937123, 12173937121, 10749150909,
+        12173937120, 12173937119, 10749150908, 4608792724
+      ],
+      "tags": {
+        "name": "Vartan Gregorian Quadrangle",
+        "place": "city_block"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 191210,
+      "center": {
+        "lat": 41.8171176,
+        "lon": -71.4231403
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 158811904,
+          "role": "admin_centre"
+        },
+        {
+          "type": "way",
+          "ref": 628490819,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 628284163,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 48835512,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 719632308,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1218954277,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38655871,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38655865,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 162207534,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38655866,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 48835911,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 35745452,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 458298989,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 458298985,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "border_type": "city",
+        "boundary": "administrative",
+        "is_in:country_code": "US",
+        "is_in:state": "Rhode Island",
+        "is_in:state_code": "RI",
+        "name": "Providence",
+        "name:ar": "بروفيدنس",
+        "name:en": "Providence",
+        "place": "city",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q18383",
+        "wikipedia": "en:Providence, Rhode Island"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 191211,
+      "center": {
+        "lat": 41.803155,
+        "lon": -71.3563345
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 888480413,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 888480412,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886549236,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886549239,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 888316190,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 888316188,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 628926640,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 888316191,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 628926641,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 888316192,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 888316193,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 888316194,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 888316196,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 888316195,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 888316197,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 887713209,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 887713207,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 887713218,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 887713217,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 887713215,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 887713219,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 804904512,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823192,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823193,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823183,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823194,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823185,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823186,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823199,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823198,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823201,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886549791,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823184,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823202,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823203,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886823205,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886589006,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886589019,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886589007,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886589018,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886549408,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886589016,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886589014,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886589013,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886589010,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886589009,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886589005,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886589004,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886589003,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 48836207,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886549111,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886549110,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886549113,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886549112,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1322832071,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1322832073,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1322832076,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1322832077,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 813999084,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1322832078,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1322832080,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38655912,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1192500543,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1192500542,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1192500544,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1192500541,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1192500540,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 813999083,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38655870,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 458298985,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 802348003,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 48835161,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 628925951,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1113210011,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1113210022,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1113210015,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1113210014,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1113210033,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1113210026,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1113210021,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1113210024,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1113210025,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1113210032,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 628925952,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 22693224,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 886549630,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 616200019,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 888315688,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 888315690,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "border_type": "city",
+        "boundary": "administrative",
+        "gnis:feature_id": "1220071",
+        "name": "East Providence",
+        "place": "city",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q54268",
+        "wikipedia": "en:East Providence, Rhode Island"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 191212,
+      "center": {
+        "lat": 41.8776234,
+        "lon": -71.3780838
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 35745452,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 48835911,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38655867,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38655913,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38655622,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 700747300,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 700747299,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 143671854,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38655870,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 458298989,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 158815340,
+          "role": "admin_centre"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "border_type": "city",
+        "boundary": "administrative",
+        "name": "Pawtucket",
+        "name:pronunciation": "pəʔtʌkɨt",
+        "place": "city",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q49200",
+        "wikipedia": "en:Pawtucket, Rhode Island"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 191213,
+      "center": {
+        "lat": 41.8904047,
+        "lon": -71.3936803
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 38655622,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38655914,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 38655621,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "8",
+        "border_type": "city",
+        "boundary": "administrative",
+        "gnis:feature_id": "1220067",
+        "name": "Central Falls",
+        "place": "city",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "type": "boundary",
+        "wikidata": "Q54273",
+        "wikipedia": "en:Central Falls, Rhode Island"
+      }
+    }
+  ]
+}

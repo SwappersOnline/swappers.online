@@ -1,0 +1,1817 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-04-08T19:20:15Z",
+    "timestamp_areas_base": "2025-02-06T02:17:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 157610884,
+      "lat": 38.9256724,
+      "lon": -77.0294287,
+      "tags": {
+        "ele": "57",
+        "gnis:feature_id": "530554",
+        "name": "Columbia Heights",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 157621768,
+      "lat": 38.8654418,
+      "lon": -76.9842531,
+      "tags": {
+        "ele": "14",
+        "gnis:feature_id": "531456",
+        "loc_name": "Historic Anacostia",
+        "name": "Anacostia",
+        "place": "suburb",
+        "wikidata": "Q4579829",
+        "wikipedia": "en:Anacostia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158227512,
+      "lat": 38.9352305,
+      "lon": -77.0587072,
+      "tags": {
+        "ele": "97",
+        "gnis:feature_id": "529410",
+        "name": "Cleveland Park",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158249984,
+      "lat": 38.9051994,
+      "lon": -77.062785,
+      "tags": {
+        "ele": "20",
+        "gnis:feature_id": "531663",
+        "name": "Georgetown",
+        "place": "suburb",
+        "wikidata": "Q1468648",
+        "wikipedia": "en:Georgetown (Washington, D.C.)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158259609,
+      "lat": 38.9489042,
+      "lon": -77.0802736,
+      "tags": {
+        "ele": "97",
+        "gnis:feature_id": "530889",
+        "name": "Tenleytown",
+        "place": "suburb",
+        "wikidata": "Q7699929",
+        "wikipedia": "en:Tenleytown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158273399,
+      "lat": 38.9251735,
+      "lon": -77.0528385,
+      "tags": {
+        "ele": "70",
+        "gnis:feature_id": "529433",
+        "name": "Woodley Park",
+        "place": "suburb",
+        "wikidata": "Q8033060"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158284531,
+      "lat": 38.9209446,
+      "lon": -77.0772,
+      "tags": {
+        "ele": "88",
+        "gnis:feature_id": "528605",
+        "name": "Glover Park",
+        "place": "suburb",
+        "wikidata": "Q5572172",
+        "wikimedia_commons": "Category:Glover Park, Washington, D.C.",
+        "wikipedia": "en:Glover Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158368533,
+      "lat": 38.8950368,
+      "lon": -77.0365427,
+      "tags": {
+        "admin_level": "2",
+        "alt_name": "Washington, D.C.;Washington DC",
+        "alt_name:el": "Οὐασιντώνη (Δ.Κ.)",
+        "alt_name:es": "Washington D. C.;Distrito de Columbia;Ciudad Federal;Ciudad de Washington",
+        "alt_name:grc": "Οὐασιντώνη (Δ.Κ.)",
+        "alt_name:vi": "Oa-sinh-tơn;Washington",
+        "capital": "yes",
+        "ele": "7",
+        "gnis:feature_id": "531871",
+        "int_name": "Washington",
+        "name": "Washington",
+        "name:Kin": "Nahalgaai Bil Hahoodzo",
+        "name:ace": "Washington, D.C.",
+        "name:ady": "Вашингтон (къалэ)",
+        "name:af": "Washington, D.C.",
+        "name:als": "Washington, D.C.",
+        "name:am": "ዋሺንግተን ዲሲ",
+        "name:an": "Washington, DC",
+        "name:ang": "Hwæsingatūn, D.C.",
+        "name:ar": "واشنطن العاصمة",
+        "name:arc": "ܘܐܫܢܓܛܘܢ (ܐܪܫܟܝܬܐ)",
+        "name:arz": "واشينطون",
+        "name:as": "ৱাশ্বিংটন ডি.চি.",
+        "name:ast": "Washington DC",
+        "name:ats": "níínɔ́ɔɔsibííítaan'ɔ",
+        "name:av": "Вашингтон",
+        "name:ay": "Washington, DC",
+        "name:az": "Vaşinqton şəhəri",
+        "name:az-Arab": "واشینقتن، دی.سی.",
+        "name:azb": "واشینقتن، دی.سی.",
+        "name:ba": "Вашингтон",
+        "name:bar": "Washington, D.C.",
+        "name:bat-smg": "Vašingtuons",
+        "name:bat_smg": "Vašingtons",
+        "name:bcl": "Washington, D.C.",
+        "name:be": "Вашынгтон",
+        "name:be-tarask": "Вашынгтон",
+        "name:bg": "Вашингтон",
+        "name:bh": "वाशिंगटन, डीसी",
+        "name:bm": "Washington, D.C.",
+        "name:bn": "ওয়াশিংটন, ডি.সি.",
+        "name:bo": "ཝ་ཤིན་ཏྲོན།",
+        "name:bpy": "ডিসটিক্ট অফ কলম্বিয়া, ডিসি",
+        "name:br": "Washington D.C.",
+        "name:bs": "Washington, D.C.",
+        "name:bxr": "Вашингтон",
+        "name:ca": "Washington DC",
+        "name:cay": "Hanadagánya̱hsgeh",
+        "name:cbk-zam": "Washington, D.C.",
+        "name:cdo": "Washington, D.C.",
+        "name:ce": "Вашингтон",
+        "name:ceb": "Washington, D.C.",
+        "name:chy": "Vášêtaëno",
+        "name:ckb": "واشینگتن دی سی",
+        "name:cnr": "Vašington, Okrug Kolumbija",
+        "name:co": "Washington DC",
+        "name:crh": "Vaşington",
+        "name:cs": "Washington, D.C.",
+        "name:cv": "Вашингтон",
+        "name:cy": "Washington, D.C.",
+        "name:da": "Washington D.C.",
+        "name:de": "Washington, D. C.",
+        "name:diq": "Washington, D.C.",
+        "name:dsb": "Washington, D.C.",
+        "name:dty": "वाशिंगटन डीसी",
+        "name:dv": "ވޮޝިންގޓަން، ޑީ.ސީ.",
+        "name:ee": "Washington D.C.",
+        "name:el": "Ουάσιγκτων",
+        "name:eml": "Washington",
+        "name:en": "Washington",
+        "name:eo": "Vaŝingtono",
+        "name:es": "Washington",
+        "name:et": "Washington",
+        "name:eu": "Washington",
+        "name:ext": "Washington D.C.",
+        "name:fa": "واشنگتن",
+        "name:fi": "Washington (DC)",
+        "name:fo": "Washington DC",
+        "name:fr": "Washington",
+        "name:frp": "Washington",
+        "name:frr": "Washington, D.C.",
+        "name:fy": "Washington, D.C.",
+        "name:ga": "Washington, D.C.",
+        "name:gan": "華盛頓哥倫比亞特區",
+        "name:gd": "Washington, D.C.",
+        "name:gl": "Washington, D.C.",
+        "name:gn": "Washington D. C.",
+        "name:gor": "Washington, D.C.",
+        "name:grc": "Οὐασιντώνη",
+        "name:gv": "Washington, D.C.",
+        "name:ha": "Washington, D.C.",
+        "name:hak": "Washington, D.C.",
+        "name:haw": "Wakinekona",
+        "name:he": "וושינגטון",
+        "name:hi": "वॉशिंगटन, डी॰ सी॰",
+        "name:hif": "Washington, D.C.",
+        "name:hr": "Washington",
+        "name:hsb": "Washington, D.C.",
+        "name:ht": "Wachintòn",
+        "name:hu": "Washington",
+        "name:hy": "Վաշինգտոն",
+        "name:ia": "Washington, D.C.",
+        "name:id": "Washington, D.C.",
+        "name:ie": "Washington, D.C.",
+        "name:ig": "Washington, D.C.",
+        "name:ilo": "Washington, D.C.",
+        "name:inh": "Вашингтон",
+        "name:io": "Washington D.C.",
+        "name:iow": "Hiⁿtúga Híñe Chína",
+        "name:is": "Washington",
+        "name:it": "Washington",
+        "name:ja": "ワシントン",
+        "name:jam": "Washintan D.C.",
+        "name:jbo": ".uacintyn. zei tcadu",
+        "name:jv": "Washington, D.C.",
+        "name:ka": "ვაშინგტონი",
+        "name:kaa": "Washington",
+        "name:kab": "Washington",
+        "name:kbd": "Уашингтон",
+        "name:kbp": "Wasɩŋtɔŋ",
+        "name:kk": "Вашингтон",
+        "name:kk-Arab": "ۆاشىينگتون",
+        "name:kn": "ವಾಷಿಂಗ್ಟನ್, ಡಿ.ಸಿ.",
+        "name:ko": "워싱턴",
+        "name:krc": "Вашингтон",
+        "name:ks": "واشنگٹن ڈی سی",
+        "name:ku": "Washington",
+        "name:kw": "Washington, D.C.",
+        "name:ky": "Вашингтон",
+        "name:la": "Vasingtonia (D.C.)",
+        "name:lad": "Washington, D.C.",
+        "name:lb": "Washington D.C.",
+        "name:lez": "Вашингтон",
+        "name:lfn": "Distrito de Columbia",
+        "name:li": "Washington D.C.",
+        "name:lij": "Washington D.C.",
+        "name:lmo": "Washington, D.C.",
+        "name:ln": "Washington",
+        "name:lrc": "ڤاشینڳتون دی سی",
+        "name:lt": "Vašingtonas",
+        "name:lv": "Vašingtona",
+        "name:mez": "Wāsehtanoh",
+        "name:mg": "Washington D.C.",
+        "name:mi": "Takiwā o Columbia",
+        "name:mia": "meetaathsoopionki",
+        "name:min": "Washington, D.C.",
+        "name:mk": "Вашингтон",
+        "name:ml": "വാഷിങ്ടൺ, ഡി.സി.",
+        "name:mn": "Вашингтон хот",
+        "name:mn-Mong": "ᠸᠠᠰᠢᠩᠲ᠋ᠣᠨ ᠬᠣᠲᠠ",
+        "name:moh": "Anatakáriasne",
+        "name:mr": "वॉशिंग्टन, डी.सी.",
+        "name:ms": "Washington, D.C.",
+        "name:mwl": "Washington, D.C.",
+        "name:my": "ဝါရှင်တန်ဒီစီ",
+        "name:myv": "Вашингтон ош",
+        "name:mzn": "واشینگتن دی سی",
+        "name:nan": "Washington, D.C.",
+        "name:nds": "Washington D.C.",
+        "name:ne": "वासिङ्टन, डी.सी.",
+        "name:new": "वाशिंग्तन, दिसि",
+        "name:nl": "Washington",
+        "name:nn": "Washington, D.C.",
+        "name:no": "Washington, D.C.",
+        "name:nov": "Washington D.K.",
+        "name:nso": "Washington, D.C.",
+        "name:nv": "Wááshindoon",
+        "name:ny": "Washington, D.C.",
+        "name:oc": "Washington, DC",
+        "name:oj": "Waashtanong",
+        "name:olo": "Vašington",
+        "name:os": "Вашингтон",
+        "name:pa": "ਵਾਸ਼ਿੰਗਟਨ, ਡੀ.ਸੀ.",
+        "name:pam": "Washington, D.C.",
+        "name:pap": "Washington D.C.",
+        "name:pdc": "Washington D.C.",
+        "name:pfl": "Washington, D.C.",
+        "name:pi": "वासिंगटन डि सि",
+        "name:pih": "Woshingtun, D.K.",
+        "name:pl": "Waszyngton",
+        "name:pms": "Washington",
+        "name:pnb": "واشنگٹن ڈی سی",
+        "name:pot": "médadsobeynak",
+        "name:ps": "واشنګټن ډي سي",
+        "name:pt": "Washington, D.C.",
+        "name:qu": "Washington DC",
+        "name:rm": "Washington, D.C.",
+        "name:rmy": "Washington, D.C.",
+        "name:ro": "Washington, D.C.",
+        "name:ru": "Вашингтон",
+        "name:rue": "Вашінґтон",
+        "name:sa": "वाशिङ्ग्टन् डि सि",
+        "name:sah": "Уашиҥтон",
+        "name:sc": "Washington",
+        "name:scn": "Washington",
+        "name:sco": "Washington, D.C.",
+        "name:sd": "واشنگٽن ڊي سي",
+        "name:se": "Washington D.C.",
+        "name:see": "Hanödagányasgeh",
+        "name:sg": "Washington D.C.",
+        "name:sh": "Washington, D.C.",
+        "name:si": "වොෂින්ටන්, ඩී.සී.",
+        "name:sk": "Washington D.C.",
+        "name:sl": "Washington, D.C.",
+        "name:sm": "Uasigitone D.C.",
+        "name:sn": "Washington, DC",
+        "name:so": "Washington D.C",
+        "name:sq": "Uashington D.C.",
+        "name:sr": "Вашингтон",
+        "name:srn": "Washington D.C.",
+        "name:st": "Washington, D.C.",
+        "name:sv": "Washington D.C.",
+        "name:sw": "Washington, D.C.",
+        "name:syc": "ܘܐܫܢܓܛܘܢ (ܐܪܫܟܝܬܐ)",
+        "name:szl": "Waszyngtůn",
+        "name:ta": "வாசிங்டன், டி. சி.",
+        "name:te": "వాషింగ్టన్, డి.సి.",
+        "name:tg": "Вашингтон (шаҳр)",
+        "name:th": "วอชิงตัน",
+        "name:tk": "Waşington",
+        "name:tl": "Washington, D.C.",
+        "name:tn": "Washington, D.C.",
+        "name:tok": "ma tomo Sisi",
+        "name:tpi": "Wasington DC",
+        "name:tr": "Washington, DC",
+        "name:ts": "Washington, DC",
+        "name:tt": "Вашингтон",
+        "name:tw": "Wɔhyeten",
+        "name:ty": "Washington",
+        "name:udm": "Вашингтон",
+        "name:ug": "ۋاشىنگتون",
+        "name:uk": "Вашингтон",
+        "name:ur": "واشنگٹن ڈی سی",
+        "name:uz": "Vashington",
+        "name:vec": "Washington D.C.",
+        "name:vep": "Vašington",
+        "name:vi": "Hoa Thịnh Đốn",
+        "name:vo": "Washington",
+        "name:vro": "Washington",
+        "name:war": "Washington, D.C.",
+        "name:wuu": "华盛顿哥伦比亚特区",
+        "name:xal": "Вашингтон",
+        "name:xh": "Washington, D.C.",
+        "name:xmf": "ვაშინგტონი",
+        "name:yi": "וואשינגטאן די סי",
+        "name:yo": "Washington, D.C.",
+        "name:yue": "華盛頓特區",
+        "name:za": "Washington, D.C.",
+        "name:zea": "Washington D.C.",
+        "name:zh": "华盛顿 / 華盛頓",
+        "name:zh-Hans": "华盛顿",
+        "name:zh-Hant": "華盛頓",
+        "name:zu": "Washington, D.C.",
+        "official_name:zh-Hans": "华盛顿哥伦比亚特区",
+        "official_name:zh-Hant": "華盛頓哥倫比亞特區",
+        "place": "city",
+        "population": "672228",
+        "population:date": "2010",
+        "rank": "0",
+        "wikidata": "Q61",
+        "wikipedia": "en:Washington, D.C."
+      }
+    },
+    {
+      "type": "node",
+      "id": 158393675,
+      "lat": 38.8938719,
+      "lon": -76.9133158,
+      "tags": {
+        "ele": "19",
+        "gnis:feature_id": "529292",
+        "name": "Northeast Boundary",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158467370,
+      "lat": 38.9109436,
+      "lon": -77.0427259,
+      "tags": {
+        "ele": "25",
+        "gnis:feature_id": "529472",
+        "heritage": "2",
+        "heritage:operator": "nrhp",
+        "heritage:ref": "78003056",
+        "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+        "historic": "heritage",
+        "name": "Dupont Circle",
+        "nrhp:criteria": "(A),(C)",
+        "nrhp:inscription_date": "1978-07-21",
+        "place": "suburb",
+        "ref:nrhp": "78003056",
+        "wikidata": "Q1266597",
+        "wikimedia_commons": "Category:Dupont Circle",
+        "wikipedia": "en:Dupont Circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158489169,
+      "lat": 38.9093275,
+      "lon": -76.9391651,
+      "tags": {
+        "ele": "10",
+        "gnis:feature_id": "528630",
+        "name": "Kenilworth",
+        "place": "suburb",
+        "wikidata": "Q6389287",
+        "wikipedia": "en:Kenilworth (Washington, D.C.)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158502198,
+      "lat": 38.8890009,
+      "lon": -77.0002537,
+      "tags": {
+        "ele": "27",
+        "gnis:feature_id": "529313",
+        "heritage": "2",
+        "historic": "heritage",
+        "name": "Capitol Hill",
+        "name:ar": "كابيتول هيل، واشنطن دي سي",
+        "name:en": "Capitol Hill",
+        "name:es": "Distrito de Capitol Hill",
+        "name:fa": "کپیتال هیل",
+        "name:he": "וושינגטון די. סי./גבעת הקפיטול",
+        "name:ja": "キャピトル・ヒル",
+        "name:ko": "캐피틀힐",
+        "name:pt": "Colina do Capitólio",
+        "name:ru": "Капитолийский холм",
+        "name:zh": "国会山",
+        "nrhp:criteria": "(A),(C)",
+        "nrhp:inscription_date": "1976-08-27",
+        "place": "suburb",
+        "ref:nrhp": "76002127",
+        "short_name": "The Hill",
+        "wikidata": "Q2305815",
+        "wikipedia": "en:Capitol Hill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158544916,
+      "lat": 38.9025183,
+      "lon": -77.0501118,
+      "tags": {
+        "ele": "1",
+        "gnis:feature_id": "531506",
+        "name": "Foggy Bottom",
+        "place": "suburb",
+        "wikidata": "Q2019662",
+        "wikipedia": "en:Foggy Bottom"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158604941,
+      "lat": 38.9328317,
+      "lon": -76.9842259,
+      "tags": {
+        "ele": "48",
+        "gnis:feature_id": "529406",
+        "name": "Brookland",
+        "place": "suburb",
+        "wikidata": "Q4575058",
+        "wikipedia": "en:Brookland (Washington, D.C.)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158607102,
+      "lat": 38.959833,
+      "lon": -77.0849612,
+      "tags": {
+        "ele": "113",
+        "gnis:feature_id": "529285",
+        "name": "Friendship Heights",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158635659,
+      "lat": 38.9656333,
+      "lon": -77.0271149,
+      "tags": {
+        "ele": "89",
+        "gnis:feature_id": "529405",
+        "name": "Brightwood",
+        "place": "suburb",
+        "wikidata": "Q4967829",
+        "wikimedia_commons": "Category:Brightwood, Washington, D.C.",
+        "wikipedia": "en:Brightwood (Washington, D.C.)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158654720,
+      "lat": 38.9664995,
+      "lon": -77.0074764,
+      "tags": {
+        "ele": "60",
+        "gnis:feature_id": "529417",
+        "name": "Lamond Riggs",
+        "place": "suburb",
+        "wikidata": "Q115866041"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2784722828,
+      "lat": 38.9659691,
+      "lon": -77.0651508,
+      "tags": {
+        "alt_name": "Chevy Chase, DC",
+        "name": "Chevy Chase",
+        "place": "suburb",
+        "wikidata": "Q4404091",
+        "wikipedia": "en:Chevy Chase (Washington, D.C.)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3661065815,
+      "lat": 38.9751175,
+      "lon": -77.0172156,
+      "tags": {
+        "name": "Takoma",
+        "place": "suburb",
+        "wikidata": "Q7678466",
+        "wikipedia": "en:Takoma (Washington, D.C.)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3667966675,
+      "lat": 38.9512037,
+      "lon": -77.0055635,
+      "tags": {
+        "name": "Fort Totten",
+        "place": "suburb",
+        "wikidata": "Q4404086",
+        "wikipedia": "en:Fort Totten (Washington, D.C.)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3670760898,
+      "lat": 38.8958959,
+      "lon": -77.022268,
+      "tags": {
+        "name": "Penn Quarter",
+        "place": "suburb"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4603359,
+      "center": {
+        "lat": 38.9784496,
+        "lon": -77.0199295
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 362195714,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 329959214,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 361651565,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 227389909,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1003160300,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362492263,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362193996,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 3661065815,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "boundary": "neighborhood",
+        "name": "Takoma",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q7678466",
+        "wikipedia": "en:Takoma (Washington, D.C.)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4610873,
+      "center": {
+        "lat": 38.9650424,
+        "lon": -77.0281799
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 158635659,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 362193996,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362193997,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362193998,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362193999,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362194000,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1042936030,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362194003,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362194004,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "neighborhood",
+        "name": "Brightwood",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q4967829",
+        "wikipedia": "en:Brightwood (Washington, D.C.)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4626673,
+      "center": {
+        "lat": 38.9567543,
+        "lon": -76.9945762
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 362501163,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1042931086,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 330116427,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362195717,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1211712964,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362501161,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 3667974782,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "boundary": "suburb",
+        "name": "Queens Chapel",
+        "place": "suburb",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4629128,
+      "center": {
+        "lat": 38.9465589,
+        "lon": -76.9835255
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 362501163,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1042931087,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 330579447,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 330268890,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 539504500,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 330267685,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "suburb",
+        "name": "North Michigan Park",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q7056101",
+        "wikipedia": "en:North Michigan Park"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4629206,
+      "center": {
+        "lat": 38.946542,
+        "lon": -76.9918105
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 158451242,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 330267685,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 539504500,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362501638,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 403572895,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 807999543,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1042931089,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1042931086,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "suburb",
+        "name": "Michigan Park",
+        "place": "suburb",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4629514,
+      "center": {
+        "lat": 38.9630687,
+        "lon": -77.0665472
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 330284670,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 330381015,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1003522162,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 376483328,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 376483329,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 2784722828,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "boundary": "neighborhood",
+        "ele": "101",
+        "gnis:feature_id": "529471",
+        "name": "Chevy Chase",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q4404091",
+        "wikimedia_commons": "Category:Chevy Chase, Washington, D.C.",
+        "wikipedia": "en:Chevy Chase (Washington, D.C.)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4630854,
+      "center": {
+        "lat": 38.9573897,
+        "lon": -77.0853189
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 158607102,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 967723885,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 968898609,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723887,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 968898608,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 968898607,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723891,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 376483322,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 376483327,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 6054055,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1003522162,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 376483328,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "suburb",
+        "name": "Friendship Heights",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q5504398",
+        "wikimedia_commons": "Category:Friendship Heights, Washington, D.C.",
+        "wikipedia": "en:Friendship Heights"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4634087,
+      "center": {
+        "lat": 38.9314242,
+        "lon": -76.9829179
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 362501638,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 330582546,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 403572894,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 158604941,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "area": "yes",
+        "boundary": "neighborhood",
+        "name": "Brookland",
+        "place": "suburb",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4636997,
+      "center": {
+        "lat": 38.9087345,
+        "lon": -76.9827662
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 158237080,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 1111556757,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362144140,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362136612,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362136613,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362144135,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362144138,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "10",
+        "boundary": "suburb",
+        "is_in:city": "Washington",
+        "is_in:state": "District of Columbia",
+        "name": "Trinidad",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q7842379",
+        "wikipedia": "en:Trinidad, Washington, D.C."
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4637036,
+      "center": {
+        "lat": 38.9115703,
+        "lon": -76.9611665
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 362136613,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362144135,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 330709282,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362197725,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362197727,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362197728,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 3665469484,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "boundary": "suburb",
+        "name": "Arboretum",
+        "place": "suburb",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4637044,
+      "center": {
+        "lat": 38.9029107,
+        "lon": -76.9787899
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 330709282,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362197724,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 365019859,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362144138,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 3690617658,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "admin_level": "10",
+        "boundary": "suburb",
+        "is_in": "Washington, DC",
+        "is_in:city": "Washington",
+        "is_in:country": "United States of America",
+        "is_in:country_code": "US",
+        "is_in:state": "District of Columbia",
+        "is_in:state_code": "DC",
+        "name": "Carver",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q5047546",
+        "wikipedia": "en:Carver Langston"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4639754,
+      "center": {
+        "lat": 38.8949954,
+        "lon": -77.0224612
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 3670760898,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 362686058,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 992781611,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 910190949,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362826194,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362826191,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362686059,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 131052512,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "10",
+        "boundary": "suburb",
+        "is_in:city": "Washington",
+        "is_in:state": "District of Columbia",
+        "name": "Penn Quarter",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q12065534",
+        "wikipedia": "en:Penn Quarter"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4641426,
+      "center": {
+        "lat": 38.9027922,
+        "lon": -76.9961825
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 330947112,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362144141,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362144140,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "suburb",
+        "name": "Near Northeast",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q6984381"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4644966,
+      "center": {
+        "lat": 38.9109734,
+        "lon": -76.9385015
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 331112154,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 158489169,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "boundary": "suburb",
+        "name": "Kenilworth",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q6389287",
+        "wikipedia": "en:Kenilworth (Washington, D.C.)"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4644977,
+      "center": {
+        "lat": 38.9051061,
+        "lon": -76.9426886
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 331112768,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 158497860,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "boundary": "suburb",
+        "name": "Eastland Gardens",
+        "place": "suburb",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4644996,
+      "center": {
+        "lat": 38.9022207,
+        "lon": -76.953497
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 365019863,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 3671104470,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 365019862,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "boundary": "suburb",
+        "name": "Mayfair",
+        "place": "suburb",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4645075,
+      "center": {
+        "lat": 38.8951674,
+        "lon": -76.9177481
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 158393675,
+          "role": "label"
+        },
+        {
+          "type": "way",
+          "ref": 361100279,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 361100106,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 995417428,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362828811,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362828812,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1216869929,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362828813,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362828822,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "admin_level": "10",
+        "boundary": "suburb",
+        "name": "Northeast Boundary",
+        "place": "suburb",
+        "type": "boundary",
+        "wikidata": "Q7057838",
+        "wikipedia": "en:Northeast Boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5396194,
+      "center": {
+        "lat": 38.8937992,
+        "lon": -77.0145805
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 362492267,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 328881111,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723892,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723895,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723894,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723897,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723893,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723888,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 968898610,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1212403071,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723884,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 968898609,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723887,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 968898608,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 968898607,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723891,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723889,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723886,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 967723896,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 902948204,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1340193716,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 363657020,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 363657015,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 61973742,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1211715532,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1211474193,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 9650912,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 443856944,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 9650734,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 674364155,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 674364157,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 674361771,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 674361773,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 674361753,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 995489316,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 995489312,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 361099822,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 361099823,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 995489315,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1211474181,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 228129977,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 484886943,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 995417412,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 361100104,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 995417431,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 361100105,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362828811,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 995417428,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 361100106,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 361100279,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362828842,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 361100280,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 694213287,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 694213286,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1211705175,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 992722546,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 992722548,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 361100281,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 990600486,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 60207735,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 60207744,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1042931088,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362501161,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 1211712964,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 362195715,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 60207733,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 361651565,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 227389909,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 559216247,
+          "role": "outer"
+        },
+        {
+          "type": "node",
+          "ref": 158368533,
+          "role": "label"
+        }
+      ],
+      "tags": {
+        "alt_name:eo": "Vaŝintono",
+        "alt_name:vi": "Oa-sinh-tơn;Washington",
+        "boundary": "place",
+        "name": "Washington",
+        "name:ar": "واشينطون",
+        "name:arc": "ܘܐܫܢܓܛܘܢ",
+        "name:az-Arab": "واشینقتن",
+        "name:azb": "واشینقتن",
+        "name:cay": "Hanadagánya̱hsgeh",
+        "name:cnr": "Vašington",
+        "name:de": "Washington",
+        "name:en": "Washington",
+        "name:eo": "Vaŝingtono",
+        "name:es": "Washington",
+        "name:fa": "واشنگتن",
+        "name:fr": "Washington",
+        "name:grc": "Οὐασιντώνη",
+        "name:kk-Arab": "ۆاشىينگتون",
+        "name:kn": "ವಾಷಿಂಗ್‌ಟನ್",
+        "name:ko": "워싱턴",
+        "name:ks": "واشنگٹن",
+        "name:mi": "Wahingitana",
+        "name:mn-Mong": "ᠸᠠᠰᠢᠩᠲ᠋ᠣᠨ ᠬᠣᠲᠠ",
+        "name:nan": "Washington",
+        "name:pl": "Waszyngton",
+        "name:ps": "واشنګټن",
+        "name:ru": "Вашингтон",
+        "name:sk": "Washington",
+        "name:syc": "ܘܐܫܢܓܛܘܢ",
+        "name:szl": "Waszyngtůn",
+        "name:ta": "வாஷிங்டன்",
+        "name:tr": "Vaşington",
+        "name:ug": "ۋاشىنگتون",
+        "name:ur": "واشنگٹن",
+        "name:vi": "Hoa Thịnh Đốn",
+        "name:yue": "華盛頓",
+        "name:zh": "华盛顿 / 蓽盛頓",
+        "name:zh-Hans": "华盛顿",
+        "name:zh-Hant": "蓽盛頓",
+        "nist:fips_code": "11001",
+        "note": "Per https://wiki.openstreetmap.org/wiki/United_States/Boundaries, Washington, D.C., is not admin_level = 8, but rather a place=city. The coterminous boundary of the District of Columbia IS tagged admin_level = 4.",
+        "place": "city",
+        "type": "boundary",
+        "wikidata": "Q61"
+      }
+    }
+  ]
+}

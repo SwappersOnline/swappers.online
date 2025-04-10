@@ -131,13 +131,13 @@ defmodule SwappersOnlineWeb.Layouts do
     ~H"""
     <div class="flex items-center">
       <span
-        class="[[data-theme=dark]_&]:hidden"
+        class="cursor-pointer [[data-theme=dark]_&]:hidden"
         phx-click={JS.dispatch("phx:set-theme", detail: %{theme: "dark"})}
       >
         <.icon name="hero-sun-micro" class="size-6 opacity-75 hover:opacity-100" />
       </span>
       <span
-        class="[[data-theme=light]_&]:hidden"
+        class="cursor-pointer [[data-theme=light]_&]:hidden"
         phx-click={JS.dispatch("phx:set-theme", detail: %{theme: "light"})}
       >
         <.icon name="hero-moon-micro" class="size-6 opacity-75 hover:opacity-100" />
